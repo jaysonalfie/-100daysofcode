@@ -126,8 +126,134 @@ for(let todo of todos){
 }
 
 /* high order array methods
-
+ doing iterations within arrays
+ -take in a function as a parameter
+ -callback function takes the variable as  a parameter
 */
+//forEach, map,filter
+
+todos.forEach(function(todo){
+   console.log(todo.text);
+});
+
+//map - returns an array
+const todoText = todos.map(function(todo){
+ return todo.text;
+})
+
+console.log(todoText);
+
+//filter
+const todoCompleted = todos.filter(function(todo){
+    return todo.isCompleted === true;
+
+}).map(function(todo){
+    return todo.text
+})//functional programming
+console.log(todoCompleted);
+
+//conditional statements
+//if statements
+const t = 4;
+const a = 11;
+// if(t>10){
+// console.log('t is 10')
+// } else if(t > 10){
+// console.log('t is greater than 10')
+// }
+// else{
+//     console.log('t is less than 10')
+// }
+if(t>5 || a> 10){
+    console.log('t is more than  5 or a is more than 10');
+
+}
+
+//Ternary operator - short hand if statement
+//'?'- then  ':' - else
+//Assigns varibale based on a condition
+
+const l = 100;
+const colour = l > 10 ? 'red' : 'blue'
+console.log(colour);
+
+//switches
+switch(colour){
+    case 'red':
+        console.log('color is red');
+        break;
+    case 'blue':
+        console.log('color is blue');
+        break;
+    default:
+        console.log('color is not red or blue')
+        break;
+
+
+}
+
+//functions
+//arrow functions- no use of keyword function, you use a const instead
+const addNums = (num1=1, num2=1)=> num1 + num2;
+console.log(addNums(5,5));
+
+todos.forEach((todo)=> console.log(todo))
+
+//Object oriented programming
+//types: constructor functions with prototypes, ES6 classes
+//this-sets properties of the object
+//constructor function
+// function Person(firstName, lastName, dob){
+//    this.firstName = firstName;
+//    this.lastName = lastName;
+//    this.dob = new Date(dob);//Date constructor
+//    //adding methods with are function to this object
+// //    this.getBirthYear = function(){
+// //     return this.dob.getFullYear();
+// //    }
+// //    this.getFullName = function(){
+// //     return `${this.firstName} ${this.lastName}`;
+// //    }
+// }
+// //Prototypes
+// //can attach methods and properties to the prototypes/
+// Person.prototype.getBirthYear = function(){
+//     return this.dob.getFullYear(); 
+// }
+// Person.prototype.getFullName = function(){
+//     return `${this.firstName} ${this.lastName}`; 
+// }
+
+
+
+//ES6 - classes were added to js
+//same efunctionality but has syntactic sugar
+//class
+class Person{
+    constructor (firstName, lastName, dob){
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.dob = new Date(dob);
+    }
+    //methods are added to the prototype
+    getBirthYear(){
+        return this.dob.getFullYear(); 
+    }
+    getFullName(){
+        return `${this.firstName} ${this.lastName}`;
+    }
+}
+
+//instantiate an object
+const person1 = new Person('Jimmy', 'Usso','4-3-1980');
+const person2 = new Person('Jey', 'Usso','4-4-1980');
+// console.log(person2.dob.getFullYear());
+console.log(person1.getBirthYear());
+console.log(person2);
+
+console.log(person1.getFullName());
+
+
 
 
 
