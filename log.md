@@ -16,3 +16,13 @@
 **Thought's**:The additional basic information are proving to be key escpecially with the ES6 js.
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
+
+### March 13th 2024 - Day 3 of 100
+
+**Today's Progress**: Was able to learn how high order array methods work to manipulate data and also the object oriented programming of JS by looking at how constructors work. I was also able to learn about conditional statements and about how ternary operators can be used to accomplish the same.
+
+**Thought's**:The fundamentals are proving to be easy to grasp and require more practice and research especially into ES6 JS. Need to do more
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
