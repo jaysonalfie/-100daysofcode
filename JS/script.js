@@ -80,3 +80,27 @@ function getDay(dayNumber){
 }
 const day= getDay(17);
 window.alert(day)
+
+//fizzbuzz
+// If the current number (i) is divisible by both 3 and 5, it prints "Fizzbuzz".
+// If the current number (i) is divisible by 3, it prints "Fizz".
+// If the current number (i) is divisible by 5, it prints "buzz".
+// If the current number (i) is not divisible by either 3 or 5, it prints the number itself.
+function fizzbuzz(limit){
+
+    for(let i=1; i < limit ;i++){
+        if(i % 3 === 0 && i % 5 === 0){
+            console.log("Fizzbuzz")
+        }else if(i % 3 === 0){
+            console.log("Fizz")
+        }else if(i % 5 === 0){
+            console.log("buzz")
+        }
+        else{
+            console.log(i)
+        }
+
+    }
+}
+
+fizzbuzz(20)
