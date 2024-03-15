@@ -26,3 +26,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+### March 14th 2024 - Day 4 of 100
+
+**Today's Progress**:Was able to learn about the DOM and explore it and see how to manipulate the objects found in the DOM and also learnt about Events and how they are used. Learnt also about multiple and single selectors that are used in JS
+
+**Thought's**:JS is fun and I really want to see where it goes. Very interesting things it can do if you ask me
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
