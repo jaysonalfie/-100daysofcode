@@ -34,3 +34,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+
+### March 14th 2024 - Day 4 of 100
+
+**Today's Progress**:Bean learning React, a JS framework.Was able to learn how components work, how JSX is used and the differences between JSX and HTML. Was also able to know how to render an app so that it is visible on the web browser.
+
+**Thought's**:React is an interesting framework in how it works and I'm looking foward to see what it unfolds
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
