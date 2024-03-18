@@ -35,11 +35,20 @@
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
 
-### March 14th 2024 - Day 4 of 100
+### March 15th 2024 - Day 5 of 100
 
 **Today's Progress**:Began learning React, a JS framework.Was able to learn how components work, how JSX is used and the differences between JSX and HTML. Was also able to know how to render an app so that it is visible on the web browser.
 
 **Thought's**:React is an interesting framework in how it works and I'm looking foward to see what it unfolds
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
+
+### March 18th 2024 - Day 6 of 100
+
+**Today's Progress**:Managed to start learning React components wiith the first property being components testing with the use of a few examples. Also got to see a library of CSS know as Semantic and how it can be used.
+
+**Thought's**:Who knew components could be nested, a great way to enhance reusability.
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
