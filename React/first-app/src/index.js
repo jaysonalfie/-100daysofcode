@@ -10,6 +10,14 @@ import { createRoot } from 'react-dom/client';
 //adding custom styling methods is different :values is single quotes, use of curly braces and camelCase writing in compound names
 //className is used to avoid collison with class in JS
 
+/*
+Tenants of react applications 
+component nesting-comp can be inside another comp
+component reusability-comp reaused throughout application
+component configuration-configure comp when it is created
+
+*/
+
 //referencing variable using curly brackets
 //objects are not valid as a React child(object acnnot be shown as a text)
 // function getButtonText(){
