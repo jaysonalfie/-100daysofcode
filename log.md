@@ -61,3 +61,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+### March 25th 2024 - Day 8 of 100
+
+**Today's Progress**:First revised all I had learnt about functional components and went ahead to begin studying class based components. Also learnt how the geolocation API works and how it returns the latitude showing the location. Also began study on states and how they are important for complicated processes.
+
+**Thought's**:Things are getting interesting real fast and I will keep up.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
