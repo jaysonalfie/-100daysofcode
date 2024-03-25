@@ -52,3 +52,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+
+### March 19th 2024 - Day 7 of 100
+
+**Today's Progress**:Learnt more about component resuability and how the prop system aids in enabling component configuration. The prop system also brings the object oriented paradigm into React , topics such as inheritance.
+
+**Thought's**:Components truly aid in mimimizing code and ensuring the code is clean.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
