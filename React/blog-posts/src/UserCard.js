@@ -1,11 +1,11 @@
 import React from 'react';
-
+//receives first argument that is props
 const UserCard = (props)=>{
    
     return(
         <div className='ui card'>
         <div className='content'>
-           <div className='header'>Sarah Carter</div>
+           <div className='header'>{props.head}</div>
            <div className='description'>
            {props.children}</div>
         </div>
