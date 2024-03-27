@@ -1,6 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { ReactDOM } from "react-dom";
+import HemisphereDisplay from "./HemisphereDisplay";
 
 /*
 app components-determines location
@@ -68,6 +69,9 @@ lifecycle methods
 -componentDidUpdate- good place to load more data loading when state/props change
 -componentWillUnmount- good place to clean up
 */
+/*
+State can be passed as props
+ */
 
 class App extends React.Component {
     //function that is called first any time an instance is created
@@ -104,7 +108,7 @@ class App extends React.Component {
     }
 
     if(!this.state.errorMessage && this.state.latitude ){
-      return <div>{this.state.latitude}</div>
+      return <div> <HemisphereDisplay latitude={this.state.latitude} /> </div>
     }
     else{
       return <div>Loading...</div>
