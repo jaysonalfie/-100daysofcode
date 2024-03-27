@@ -77,3 +77,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+### March 27th 2024 - Day 10 of 100
+
+**Today's Progress**:Went a bit further into learning the lifecycle methods and how they are used. Also learnt about ternary operations that are if-else statements used with JS. Also learnt about deconstructive assignment in which an object is created and keys from it can be accessed.
+
+**Thought's**:Deconstructive assignment is interesting that spaces can cause a component to not render. Keeps getting interesting.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
+
