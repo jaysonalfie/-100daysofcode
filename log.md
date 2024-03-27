@@ -69,3 +69,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+### March 26th 2024 - Day 9 of 100
+
+**Today's Progress**:First revised all I had learnt about class- based components then went further to learn how the state system works and how it helps to update content in the application. eg enabling one to know a user's location using the geolocation API. Also began looking at the lifecycle method of which constructor is one of them.
+
+**Thought's**:The basics really get you as you try to build up on the foundation of what you want to do.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
