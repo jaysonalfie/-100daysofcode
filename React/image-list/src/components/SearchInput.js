@@ -24,10 +24,11 @@ class SearchInput extends React.Component {
     state ={ entry: ''}
     
 
-    //preventd form behavior of refreshing after input is keyed in
+    //prevent form behavior of refreshing after input is keyed in
+    //communicates the entered input to the parent component via a cllback function provided as prop (onSerachSubmit)
     onFormSubmit=(event) =>{
        event.preventDefault()
-       console.log(this.state.entry)
+       this.props.onSearchSubmit(this.state.entry)
 
     }
     render(){
