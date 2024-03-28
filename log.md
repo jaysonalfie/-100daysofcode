@@ -85,4 +85,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+### March 28th 2024 - Day 11 of 100
+
+**Today's Progress**:Began learning form handling in React.It also brought out well how controlled and uncontrolled elements are implemented in forms and also how to deal with the error of undefined state. I was also able to create event handlers for a user to submit a text input.
+
+**Thought's**:Hovering closer every day...this is encouraging me to explore more with what React can do
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
 
