@@ -1,6 +1,7 @@
 import React from "react";
 import axios from "axios";
 import SearchInput from "./SearchInput";
+import ImageList from "./ImageList";
 
 //creating API request that is an AJAX request
 //this is done using axios or the fetch function
@@ -22,6 +23,7 @@ class App extends React.Component {
   state = {images:[]}
    //defining callback function that enables this component to handle the search submission logic
    //using arrow function to get rid of error that "this.state" is undefined
+   //setState is for updating the state that causes the component to rerender
     onSearchSubmit= async (entry)=>{
     
      const response = await axios.get(`https://pixabay.com/api/?key=43120799-3feaa52337e817ea3584cbfad&q=${entry}&image_type=photo&pretty=true`)
@@ -33,7 +35,8 @@ class App extends React.Component {
         <div className="ui container" style={{marginTop:'30px'}}>
         
             <SearchInput onSearchSubmit={this.onSearchSubmit}/>
-            We have {this.state.images.length} images
+            {/* We have {this.state.images.length} images */}
+            <ImageList images={this.state.images}/>
         </div>
     )
   }
