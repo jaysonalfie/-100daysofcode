@@ -93,4 +93,13 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
 
+### March 29th 2024 - Day 12 of 100
+
+**Today's Progress**:Was able to learn how a child component can pass information to a parent component through the use of callback functions. Also was able to render a list of components and began study on react routers and how they enable navigation.
+
+**Thought's**:Tech is ever evolving, interesting how many features that were in the react router are now not availbale hence the need for more research
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
+
 
