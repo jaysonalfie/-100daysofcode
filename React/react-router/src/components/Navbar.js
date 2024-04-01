@@ -3,17 +3,17 @@ import {Link, NavLink ,useNavigate} from 'react-router-dom';
 
 const Navbar = ()=>{
      
-     const navigate = useNavigate();
+    //  const navigate = useNavigate();
 
 
-     //redirecting to /about after 2 seconds
-     useEffect(()=>{
-        const timer =setTimeout(()=>{
-            navigate('/about');
-        }, 2000)
+    //  //redirecting to /about after 2 seconds
+    //  useEffect(()=>{
+    //     const timer =setTimeout(()=>{
+    //         navigate('/about');
+    //     }, 2000)
 
-        return() => clearTimeout(timer);
-     },[navigate])
+    //     return() => clearTimeout(timer);
+    //  },[navigate])
 
      
      

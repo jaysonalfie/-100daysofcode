@@ -1,10 +1,10 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route , Switch  } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
 import Contact from "./components/Contact";
-
+import Card from "./components/Card";
 
 /*
 React router
@@ -20,7 +20,19 @@ React router
  props cannot be passed down automatically hence the need to use the useNavigate hook
  -withRouter that was a higher order component that wrapped the component and provide it with history, location
  currently what is in use is hook such as useNavigate is use to achieve what higher order components were meant to. React router v6
-*/
+
+ Route parameters
+ -Part of a URL that can be changed
+ How to grab that route parameter inside a component and how to show different data based on the URL
+
+ -In previous version switch wwas used to ensure  only one route matched and rendered at a time but It has been replaced with Routes
+ -It aids in loading one componenta at a time
+
+
+
+ 
+ 
+ */
 function App() {
   return (
     <BrowserRouter>
@@ -30,6 +42,7 @@ function App() {
         <Route exact path='/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/contact' element={<Contact/>}/>
+        <Route path='/card/:user' element={<Card/>}/>
         </Routes>
       </div>
     </BrowserRouter>
