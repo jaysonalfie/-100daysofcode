@@ -21,3 +21,20 @@
     position: relative;
     z-index: 0;
 }
+.modal2{
+    height:100%;
+    width:100%;
+    position: fixed;
+    background-color: grey;
+    top: 0;
+    left: 0;
+    opacity: .9;
+}
+.modal-content2{
+    background-color: white;
+    margin:300px auto;
+    height:10%;
+    width: 40%;
+    text-align:center;
+    border-radius: 8px;
+}
