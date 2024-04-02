@@ -102,4 +102,12 @@
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
 
+### April 1st 2024 - Day 13 of 100
+
+**Today's Progress**:Was able to learn how a the Routes tag ensures only one component is accessed at a time and also created a Modal on top of a component using the traditional method which proves to be slightly harder in React.
+
+**Thought's**:Discovering new stuff everyday...looking foward to the next step
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
 
