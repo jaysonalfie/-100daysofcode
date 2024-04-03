@@ -118,5 +118,13 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 3rd 2024 - Day 15 of 100
+
+**Today's Progress**:Began research and study on Redux which is used for state management on the frontend and managed to connect it to a component.
+
+**Thought's**:This I have to revise as it seems to be complex but I know its only at first. I will stay here for a bit.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
 
 
