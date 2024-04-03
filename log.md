@@ -110,4 +110,13 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 2nd 2024 - Day 14 of 100
+
+**Today's Progress**:Was able to learn more about modals and how react portals helps one achieve this. It allows one to render components outside the DOM's hierachical format.
+
+**Thought's**:Was stuck for a while to make the modal render but finally did it😂😂
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
+
 
