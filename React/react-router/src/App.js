@@ -28,7 +28,11 @@ React router
  -In previous version switch wwas used to ensure  only one route matched and rendered at a time but It has been replaced with Routes
  -It aids in loading one componenta at a time
 
-
+Redux functionality -is a central store of data and aids in state management
+library used to create store
+-components dispatches an action
+- action passed to the reducer
+-Reducer updates the central data store
 
  
  

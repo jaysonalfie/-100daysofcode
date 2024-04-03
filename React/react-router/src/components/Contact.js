@@ -1,7 +1,9 @@
 import React, { useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import Modal from './Modal';
-const Contact = () => {
+// import Modal from './Modal';
+import { connect } from "react-redux";
+
+const Contact = ({ cards }) => {
   //creating the navigation function for programmatic redirection
   // const navigate = useNavigate();
   // //creating a callack function that creates a 2 second delay before it is called and perform the redirection
@@ -15,8 +17,24 @@ const Contact = () => {
   // }, [navigate]);
   return (
     <div>
-    <Modal />
-      <div
+      {/* <Modal /> */}
+      {cards.map((card) => {
+        return (
+          <div
+            className="ui raised very padded text container segment"
+            style={{ marginTop: "80px" }}
+            key={card.id}
+          >
+            <Link to={`/${card.title}`} className="ui header">
+              {card.title}
+            </Link>
+            <p>
+              {card.body}
+            </p>
+          </div>
+        );
+      })}
+      {/* <div
         className="ui raised very padded text container segment"
         style={{ marginTop: "80px" }}
       >
@@ -45,9 +63,17 @@ const Contact = () => {
           pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id est laborum.
         </p>
-      </div>
+      </div> */}
     </div>
   );
 };
 
-export default Contact;
+//connecting to the store
+/*
+-grabbing state from the state  and apply it to the cards object*/
+const mapStateToProps = (state) => {
+  return {
+    cards: state.cards,
+  };
+};
+export default connect(mapStateToProps)(Contact);
