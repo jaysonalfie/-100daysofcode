@@ -70,9 +70,14 @@ const Contact = ({ cards }) => {
 
 //connecting to the store
 /*
--grabbing state from the state  and apply it to the cards object*/
+-grabbing state from the state  and apply it to the cards object
+-the connect function has the mapStateToProps function passed on to it so that it returns a high order component
+whic wraps the contact component and ability to connect to the redux store
+-In mapsToState, we apply a cards property to our props and sayiny it is equal to our state.cards in the Redux store
+*/
 const mapStateToProps = (state) => {
   return {
+    //represents properties we want to add to the props
     cards: state.cards,
   };
 };
