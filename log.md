@@ -126,5 +126,14 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 6th 2024 - Day 16 of 100
+
+**Today's Progress**:Managed to revise what i had done on redux and expanded abit on it by connecting another component.
+
+**Thought's**:The component did not render😂😂will have to go back to the drawing board on the state management issue
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
+
 
 
