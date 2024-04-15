@@ -134,6 +134,15 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 15th 2024 - Day 17 of 100
+
+**Today's Progress**:Managed to revise again Redux as I continued debugging the error I had earlier on rendering the component.
+
+**Thought's**:Made a little progress but just one step left fot the component to render.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
+
 
 
 
