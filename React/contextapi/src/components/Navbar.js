@@ -1,10 +1,16 @@
-import React from "react";
+import React, { useContext } from "react";
+import { ThemeContext } from "../contexts/Theme";
 
-class Navbar extends React.Component{
-    render(){
+
+
+const Navbar= () =>  {
+
+    
+       const {theme,toggleTheme} = useContext(ThemeContext);
+       
         return(
-            <nav>
-                <h2 className="ui centered header">
+            <nav style={{background:theme.background, color:theme.text, height: '120px'}}>
+                <h2 style={{textAlign:'center'}}>
                     Oak Academy
                 </h2>
                 <div className="ui three buttons">
@@ -14,7 +20,7 @@ class Navbar extends React.Component{
                 </div>
             </nav>
         )
-    }
+    
 }
 
 export default Navbar;
