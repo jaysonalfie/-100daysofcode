@@ -142,6 +142,13 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 16th 2024 - Day 18 of 100
+
+**Today's Progress**:Began study on Context API which is also used for state management in larger applicaions and can used instead of Redux.
+
+**Thought's**:just found out tutorial hell is real😂😂😂we overcome it regardless
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
 
 
