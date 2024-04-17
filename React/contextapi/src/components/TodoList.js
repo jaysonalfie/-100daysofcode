@@ -1,14 +1,19 @@
-import React from "react";
+import React, { useContext } from "react";
+import { ThemeContext } from "../contexts/Theme";
 
-class TodoList extends React.Component {
-    render(){
+
+const TodoList = ()=> {
+    
+   const {theme, toggleTheme} = useContext(ThemeContext)
+
         return(
-            <div className="ui list">
+            <div style={{background:theme.background, color: theme.text, height: '140px', textAlign: 'center'}}>
              <p className="item">Plan for family trip</p>
              <p className="item">Go for shopping for dinner</p>
              <p className="item">Go for a walk</p>
+             <button className="ui button primary" onClick={toggleTheme}>Change the Theme</button>
             </div>
         )
-    }
+    
 }
 export default TodoList;
