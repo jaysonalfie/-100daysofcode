@@ -150,6 +150,14 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 17th 2024 - Day 19 of 100
+
+**Today's Progress**:Expanded more and was able to consume more contexts in a single component and also started learning on how to use hooks with the context API.
+
+**Thought's**:just found out hooks are interesting to work with
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
 
 
 
