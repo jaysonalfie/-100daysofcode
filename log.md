@@ -166,6 +166,14 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 19th 2024 - Day 21 of 100
+
+**Today's Progress**:Finished on the dummy todo app by allowing removal of a todo. Also learnt how to use the useReducer hook to combine multiple functions into a single function
+
+**Thought's**:Loving the progress and focusing more on understanding than mastery
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
 
 
 
