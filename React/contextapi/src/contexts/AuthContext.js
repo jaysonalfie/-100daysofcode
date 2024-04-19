@@ -3,7 +3,7 @@ import React , {createContext, useState} from 'react';
 //creating an AuthContext object to store and share authentication state
 export const Authcontext = createContext();
 
-function AuthcontextProvider({children}){
+const AuthcontextProvider =({children})=> {
     //define the initial state for user login status(isLoggedIn)
     const [isLoggedIn,setIsLoggedIn ] = useState(false);
     
