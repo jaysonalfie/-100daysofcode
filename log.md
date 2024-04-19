@@ -158,6 +158,15 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 18th 2024 - Day 20 of 100
+
+**Today's Progress**:Created a dummy todo app and was able to use hooks to add todos.
+
+**Thought's**:hooks really make the code clean, nice to be using them
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
+
 
 
 
