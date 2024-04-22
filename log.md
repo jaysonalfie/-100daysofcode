@@ -166,6 +166,22 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 19th 2024 - Day 21 of 100
+
+**Today's Progress**:Finished on the dummy todo app by allowing removal of a todo. Also learnt how to use the useReducer hook to combine multiple functions into a single function
+
+**Thought's**:Loving the progress and focusing more on understanding than mastery
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
+
+### April 22th 2024 - Day 22 of 100
+
+**Today's Progress**:Began creating a project to encompass all that I have been learning so far. Had also to refresh on CSS
+
+**Thought's**:Finally leartn how react router v6 the correct way.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
 
 
 
