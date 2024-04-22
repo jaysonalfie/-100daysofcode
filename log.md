@@ -174,6 +174,14 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode/tree/main/React
 
+### April 22th 2024 - Day 22 of 100
+
+**Today's Progress**:Began creating a project to encompass all that I have been learning so far. Had also to refresh on CSS
+
+**Thought's**:Finally leartn how react router v6 the correct way.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
 
 
 
