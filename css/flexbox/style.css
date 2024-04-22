@@ -1,0 +1,16 @@
+.nav-list{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content:space-evenly;
+    list-style: none;
+    gap: 1rem;
+    
+}
+.nav-list li{
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+header{
+    border-width: 5px;
+}
