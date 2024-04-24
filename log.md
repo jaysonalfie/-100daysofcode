@@ -185,7 +185,7 @@
 
 ### April 24th 2024 - Day 23 of 100
 
-**Today's Progress**:Began working on the homepage of the application aand also styling it using css
+**Today's Progress**:Began working on the homepage of the application and also styling it using css
 
 **Thought's**:I saw it fit to write my own css as I learn and opt to use frameworks later.
 
