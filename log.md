@@ -191,4 +191,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
+### April 25th 2024 - Day 24 of 100
+
+**Today's Progress**:Was featured in a joint project that was using react for frontend and flask for backend and assited in the frontend using Material UI
+
+**Thought's**:It was great working with other developers and I was amazed by the workflow and organization that I know I will soon get to.
+
+**Link To Work**: No link as the reposository was not mine
+
 
