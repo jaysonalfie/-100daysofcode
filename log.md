@@ -199,4 +199,12 @@
 
 **Link To Work**: No link as the reposository was not mine
 
+### April 26th 2024 - Day 25 of 100
+
+**Today's Progress**:Finished a section on the homepage , the third one according to the design and managed to use props in it.
+
+**Thought's**:Indeed when you build something is when you get to understand the contents deeply...Lets keep going on
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
 
