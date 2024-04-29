@@ -1,0 +1,114 @@
+/* style.css */
+:root {
+  --clr-primary: hsl(215, 99%, 66%);
+  --clr-secondary: hsl(259, 69%, 65%);
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-900: hsl(230, 32%, 15%);
+
+  --gradient: linear-gradient(
+    -255deg,
+    var(--clr-primary),
+    var(--clr-secondary)
+  );
+}
+
+body {
+  font-family: system-ui;
+  text-align: center;
+  color: var(--clr-neutral-900);
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+}
+.button {
+  padding: 1em;
+  background: var(--gradient);
+  color: var(--clr-neutral-100);
+  border: 0;
+  border-radius: 0.25rem;
+  font-size: 1.05rem;
+  cursor: pointer;
+  background-size: 100%;
+  transition: background-size 200ms, scale 250ms ease-in-out;
+}
+.button:hover,
+.button:focus {
+  background-size: 200%;
+  scale: 1.05;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: 2rem 20rem 2rem;
+  grid-template-rows: repeat(3, auto);
+}
+.card-heading {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.welcome {
+  color: var(--clr-neutral-100);
+  background: var(--gradient);
+  grid-column: 1 / -1;
+  grid-row: 1/ 3;
+
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-template-columns: subgrid;
+  border-radius: 1rem;
+}
+.welcome div {
+  padding-block: 1rem;
+  grid-column: 2 / 3;
+}
+.start-chatting {
+  background: var(--clr-neutral-100);
+  padding: 2rem 4rem 4rem;
+  grid-column: 2 / 3;
+  grid-row: 2 / 4;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 3.5rem rgb(0 0 0/ .1);
+
+  display: grid;
+  gap: 2rem;
+}
+.start-chatting img {
+  max-width: 6rem;
+  border-radius: 50%;
+}
+
+.start-chatting > * {
+  margin: 0;
+}
+
+.rep-info > * {
+  margin: 0;
+}
+.name {
+  font-size: 1.125rem;
+}
+.status {
+  display: flex;
+  gap: 0.35em;
+  align-items: center;
+  font-size: 0.875rem;
+  border: 1px solid rgb(133, 133, 133);
+  border-radius: 100vw;
+  width: max-content;
+  padding: 0.05em 0.75em;
+  margin-inline: auto;
+  opacity: 0.7;
+  margin-bottom: 25px;
+}
+.status::before {
+  content: "";
+  height: 0.65em;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  background: var(--status-color, black);
+}
+
+.status[data-status="active"] {
+  --status-color: limegreen;
+}
