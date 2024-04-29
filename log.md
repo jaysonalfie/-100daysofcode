@@ -207,4 +207,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
+### April 29th 2024 - Day 26 of 100
+
+**Today's Progress**:Worked on creating and styling a layered card so as to enable me to look into some cards in the Aquaflow project.
+
+**Thought's**:The layered card is proving to be an issue, no progress yet but still looking for a way to work on it
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
 
