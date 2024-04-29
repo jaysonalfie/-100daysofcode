@@ -183,6 +183,28 @@
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
 
+### April 24th 2024 - Day 23 of 100
 
+**Today's Progress**:Began working on the homepage of the application and also styling it using css
+
+**Thought's**:I saw it fit to write my own css as I learn and opt to use frameworks later.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
+### April 25th 2024 - Day 24 of 100
+
+**Today's Progress**:Was featured in a joint project that was using react for frontend and flask for backend and assited in the frontend using Material UI
+
+**Thought's**:It was great working with other developers and I was amazed by the workflow and organization that I know I will soon get to.
+
+**Link To Work**: No link as the reposository was not mine
+
+### April 26th 2024 - Day 25 of 100
+
+**Today's Progress**:Finished a section on the homepage , the third one according to the design and managed to use props in it.
+
+**Thought's**:Indeed when you build something is when you get to understand the contents deeply...Lets keep going on
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
 
