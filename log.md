@@ -215,4 +215,20 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
+### April 30th 2024 - Day 27 of 100
+
+**Today's Progress**:Was able to work on the card and styles it a bit. I managed to create it in a way that is not far from the design.
+
+**Thought's**:More is to be done on it....but currently I'd say its ok.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
+### May 2nd 2024 - Day 28 of 100
+
+**Today's Progress**:Was able to work on the footer and it is coming on well.... a litle bit of styling and It will be ok.
+
+**Thought's**:learning day and day and the grind has to continue
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
 
