@@ -231,4 +231,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
+### May 6th 2024 - Day 30 of 100
+
+**Today's Progress**:Worked on the about page and was also able to style it.
+
+**Thought's**:The page seems ok but more can be done and also the need to look into responsivity.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
 
