@@ -239,4 +239,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### May 7th 2024 - Day 31 of 100
+
+**Today's Progress**:Began working on the shop page by first creating cards that will be used a lot in te page.
+
+**Thought's**:The layout for the page seems to be a task let me work on figuring it out.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
 
