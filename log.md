@@ -247,4 +247,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### May 8th 2024 - Day 32 of 100
+
+**Today's Progress**:Finished the UI in the shops page and onto the next .
+
+**Thought's**:I was able to debug the footer and now just to figure out the logic as I continue.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
 
