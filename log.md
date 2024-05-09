@@ -255,4 +255,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### May 9th 2024 - Day 33 of 100
+
+**Today's Progress**:Began creating the log in page and also the error page incase there is an aeeor in the route accessed.
+
+**Thought's**:Still thinking about how I will implement the logic...I know I will get it done..
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
 
