@@ -263,4 +263,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### May 13th 2024 - Day 34 of 100
+
+**Today's Progress**:Ws able to implement the react form hook into the sign up form and it works well enough
+
+**Thought's**:Frustration might be kicking in due to deadlines but there is no giving up
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
 
