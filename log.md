@@ -265,10 +265,18 @@
 
 ### May 13th 2024 - Day 34 of 100
 
-**Today's Progress**:Ws able to implement the react form hook into the sign up form and it works well enough
+**Today's Progress**:Was able to implement the react form hook into the sign up form and it works well enough
 
 **Thought's**:Frustration might be kicking in due to deadlines but there is no giving up
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 14th 2024 - Day 35 of 100
+
+**Today's Progress**:Began looking into fastAPI and saw about path parameters
+
+**Thought's**:still pushing on as though some stuff might not be making sense.
+
+**Link To Work**:  https://github.com/jaysonalfie/-100daysofcode
 
 
