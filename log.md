@@ -207,4 +207,68 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
 
+### April 29th 2024 - Day 26 of 100
+
+**Today's Progress**:Worked on creating and styling a layered card so as to enable me to look into some cards in the Aquaflow project.
+
+**Thought's**:The layered card is proving to be an issue, no progress yet but still looking for a way to work on it
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
+### April 30th 2024 - Day 27 of 100
+
+**Today's Progress**:Was able to work on the card and styles it a bit. I managed to create it in a way that is not far from the design.
+
+**Thought's**:More is to be done on it....but currently I'd say its ok.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
+### May 2nd 2024 - Day 28 of 100
+
+**Today's Progress**:Was able to work on the footer and it is coming on well.... a litle bit of styling and It will be ok.
+
+**Thought's**:learning day and day and the grind has to continue
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
+### May 6th 2024 - Day 30 of 100
+
+**Today's Progress**:Worked on the about page and was also able to style it.
+
+**Thought's**:The page seems ok but more can be done and also the need to look into responsivity.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 7th 2024 - Day 31 of 100
+
+**Today's Progress**:Began working on the shop page by first creating cards that will be used a lot in te page.
+
+**Thought's**:The layout for the page seems to be a task let me work on figuring it out.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 8th 2024 - Day 32 of 100
+
+**Today's Progress**:Finished the UI in the shops page and onto the next .
+
+**Thought's**:I was able to debug the footer and now just to figure out the logic as I continue.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 9th 2024 - Day 33 of 100
+
+**Today's Progress**:Began creating the log in page and also the error page incase there is an aeeor in the route accessed.
+
+**Thought's**:Still thinking about how I will implement the logic...I know I will get it done..
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 13th 2024 - Day 34 of 100
+
+**Today's Progress**:Ws able to implement the react form hook into the sign up form and it works well enough
+
+**Thought's**:Frustration might be kicking in due to deadlines but there is no giving up
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
 
