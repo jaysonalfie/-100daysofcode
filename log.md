@@ -279,4 +279,12 @@
 
 **Link To Work**:  https://github.com/jaysonalfie/-100daysofcode
 
+### May 16th 2024 - Day 36 of 100
+
+**Today's Progress**:Managed to create an API that authenticates users
+
+**Thought's**:the authentication has some errors but I am looking into them
+
+**Link To Work**:  https://github.com/jaysonalfie/-100daysofcode
+
 
