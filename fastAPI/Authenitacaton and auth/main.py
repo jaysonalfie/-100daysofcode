@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from jose import JWTError, jwt
 from passlib.context import CryptContext
 
-SECRET_KEY="d9e5af0220c755a5ac3dc5bffc52fb33ffd2738e03e455065757754d3b806c1"
+SECRET_KEY="552d0e173ab8ef60d01aaaeddb7e17c20346d7f24306e811357101804d3e489d"
 ALGORITHM ="HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60
 
@@ -14,11 +14,11 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 60
  #authentiation and authorization
  #defining models to be used and a dummy DB
 db = {
-    "Jay": {
+    "jay": {
         "username":"jay",
         "full_name": "Jay Alfie",
         "email":"jayalfie@gmail.com",
-        "hashed_password":"$2b$12$Nnb/aXhgI7sXhQEqo0ltc.BYGaUgJrKq8yt0e5f4ZnBuhAJve5de.",
+        "hashed_password":"$2b$12$15W0BoGySCG4S8ACbYzuVemUkmHBQ6X.06nfycowa9SKs6bIMBKm2",
          "disabled":False
     }
 }
@@ -29,13 +29,13 @@ class Token(BaseModel):
     token_type:str
 
 class TokenData(BaseModel):
-    username:str or None = None
+    username: str or None = None
 
 class User(BaseModel):
     username:str
     email: str or None = None     
     full_name: str or None = None     
-    disabled: str or None = None  
+    disabled: bool or None = None  
 
 class UserInDB(User):
     hashed_password:str
@@ -63,12 +63,12 @@ def authenticate_user(db, username: str, password: str):
     user = get_user(db, username)
     if not user:
         return False
-    if not verify_password(password,user.hashed.password):
+    if not verify_password(password, user.hashed_password):
         return False
     
     return user
 
-def create_access_token(data: dict, expires_delta:timedelta or None = None):
+def create_access_token(data: dict, expires_delta: timedelta or None = None):
     to_encode = data.copy()
     if expires_delta:
         expire = datetime.utcnow()+ expires_delta
@@ -83,13 +83,16 @@ def create_access_token(data: dict, expires_delta:timedelta or None = None):
 #functions to get user from an access token
 async def get_current_user(token: str = Depends(oauth2_scheme)):
     credential_exception = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="could not validate credentials", headers= {"WWW-Authenticate":"Bearer"})
-    username:str = payload.get("sub")
-    if username is None:
-        raise credential_exception
-    token_data = TokenData(username=username)
+    
 
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms= [ALGORITHM])
+        username: str = payload.get("sub")
+        if username is None:
+            raise credential_exception
+        
+        token_data = TokenData(username=username)
+        
     except JWTError:
         raise credential_exception
 
@@ -99,21 +102,23 @@ async def get_current_user(token: str = Depends(oauth2_scheme)):
     
     return user
 
-#checks if the autheniticated user is active
-# async def get_current_active_user(current_user:UserInDB= Depends(get_current_user)):
-#     if current_user.disabled:
-#         raise HTTPException (status_code=400, detail="Inactive user")
+# checks if the autheniticated user is active
+async def get_current_active_user(current_user: UserInDB= Depends(get_current_user)):
+    if current_user.disabled:
+        raise HTTPException (status_code=400, detail="Inactive user")
     
-#     return current_user
+    return current_user
 
 #token url endpoint-handles  log in process and generates new access token
 @app.post("/token", response_model=Token)
 async def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends()):
-    user = authenticate_user(db,form_data.username, form_data.password )
+    user = authenticate_user(db, form_data.username, form_data.password )
     if not user:
-        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="incorrect username or password", headers= {"WWW-Authenticate":"Bearer"} )
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, 
+                            detail="incorrect username or password", headers= {"WWW-Authenticate":"Bearer"} )
     access_token_expires= timedelta(minutes = ACCESS_TOKEN_EXPIRE_MINUTES)
-    access_token = create_access_token(data={"sub": user.username}, expires_delta=access_token_expires)
+    access_token = create_access_token(
+        data={"sub": user.username}, expires_delta=access_token_expires)
     return { "access_token": access_token, "token_type": "bearer"}
 
 @app.get("/users/me/", response_model= User)
