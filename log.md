@@ -288,3 +288,12 @@
 **Link To Work**:  https://github.com/jaysonalfie/-100daysofcode
 
 
+### May 17th 2024 - Day 37 of 100
+
+**Today's Progress**:Tried creating the api for signup today.
+
+**Thought's**:I have not been successful but I will kep trying...I kno I will get there.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project)
+
+
