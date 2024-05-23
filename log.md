@@ -304,3 +304,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### May 23th 2024 - Day 39 of 100
+
+**Today's Progress**:Decided to learm about APIs by creating one that facilitates CRUD operations
+
+**Thought's**:I have to learn this slowly so to be able to implement it in the larger project. I believe I am doing my best and I will get there
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode
+
