@@ -43,7 +43,7 @@ def read_task(task_id:UUID):
     
 #endpoint to update a task
 @app.put("/tasks/{task_id}", response_model=Task)
-def update_task(task_id:UUID,task_update=Task):
+def update_task(task_id: UUID, task_update: Task):
     #added an index to each task item as it iterates
     for idx, task in enumerate(tasks):
         #task.copy creates a copy of the original task
@@ -54,15 +54,17 @@ def update_task(task_id:UUID,task_update=Task):
             updated_task= task.copy(update=task_update.dict(exclude_unset=True))
             tasks[idx]= updated_task
             return updated_task
-        raise HTTPException(status_code=404, detail="Task not found")
+    raise HTTPException(status_code=404, detail="Task not found")
+    
+
 
 #endpoint to delete task
-@app.delete("/tasks/{task_id}",response_model=Task)
-def delete_task(task_id):
+@app.delete("/tasks/{task_id}", response_model=Task)
+def delete_task(task_id: UUID):
     for idx, task in enumerate(tasks):
         #removes task from the list of tasks
         if task.id == task_id:
-           return task.pop(idx)
+           return tasks.pop(idx)
     raise HTTPException(status_code=404, detail="Task not found")
         
          
