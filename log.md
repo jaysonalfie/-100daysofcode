@@ -312,3 +312,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode
 
+### May 24th 2024 - Day 40 of 100
+
+**Today's Progress**:Decided to learn how to connect fastapi to mysql
+
+**Thought's**:Perhaps I was getting way ahead of myself..let me slow down and get things in order in terms of backend.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode
+
+
