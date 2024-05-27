@@ -320,4 +320,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode
 
+### May 27th 2024 - Day 41 of 100
+
+**Today's Progress**:Added endpoints to delete and add posts to the application I was learning with. Aso connected the aquaflow app to mysql database
+
+**Thought's**:Still taking things slow to make them make sense as I proceed.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode
 
