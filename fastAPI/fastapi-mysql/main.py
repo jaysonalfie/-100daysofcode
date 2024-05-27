@@ -31,6 +31,30 @@ db_dependency = Annotated[Session, Depends(get_db)]
 
 #endpoint to create posts
 
+@app.post("/posts/", status_code=status.HTTP_201_CREATED)
+async def create_post(post: PostBase, db: Session = Depends(get_db)):
+    db_post = models.Post(**post.dict())
+    db.add(db_post)
+    db.commit()
+
+#endpoint to check only for one post in the db
+@app.post("/posts/{post_id}",status_code=status.HTTP_200_OK)
+async def read_post(post_id:int,db : Session = Depends(get_db)):
+    post = db.query(models.Post).filter(models.Post.id== post_id).first()
+    if post is None:
+        HTTPException(status_code=404, detail='Post was not found')
+    return post
+
+#endpoit to delete post
+@app.delete("/post/{post_id}", status_code=status.HTTP_200_OK)
+async def delete_post(post_id:int, db: Session = Depends(get_db)):
+    db_post = db.query(models.Post).filter(models.Post.id == post_id).first()
+    if db_post is None:
+        HTTPException(status_code=404, detail='Post was not found')
+    db.delete(db_post)
+    db.commit()
+    return db_post
+
 #creating a new user in the database
 @app.post("/users/", status_code=status.HTTP_201_CREATED)
 async def create_user(user: UserBase, db: Session = Depends(get_db)):
