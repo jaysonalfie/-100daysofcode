@@ -328,3 +328,12 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode
 
+
+### May 28th 2024 - Day 42 of 100
+
+**Today's Progress**:Started creating the backend of this simple app so as to get to understand how fastapi works on the backend
+
+**Thought's**:I am experiecing some bugs but still trying to solve them as I proceed as the application is not rendering
+
+**Link To Work**: https://github.com/jaysonalfie/React-FastAPI-authentication
+
