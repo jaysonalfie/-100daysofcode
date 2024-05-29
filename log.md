@@ -337,3 +337,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/React-FastAPI-authentication
 
+### May 29th 2024 - Day 43 of 100
+
+**Today's Progress**:Managed to create a simple log in form and connected it to the backend to enable the authentication to take place.
+
+**Thought's**:I am now getting a grips of the backend and how to connect to frontend...I hope I will fully understand as I proceed.
+
+**Link To Work**: https://github.com/jaysonalfie/React-FastAPI-authentication
+
