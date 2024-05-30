@@ -345,3 +345,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/React-FastAPI-authentication
 
+
+### May 30th 2024 - Day 44 of 100
+
+**Today's Progress**:I was able to create an api to register a user and confirmed that it sends the data to the backend
+
+**Thought's**:I am now getting to understand more and more and in good time I will be better...I believe so.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
