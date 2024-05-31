@@ -353,3 +353,11 @@
 **Thought's**:I am now getting to understand more and more and in good time I will be better...I believe so.
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 31st 2024 - Day 45 of 100
+
+**Today's Progress**:Was able to add the login page and connected it to the authentication api.
+
+**Thought's**:I was progressing well but experinced an issue with git...I guess I have to create another repo then.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
