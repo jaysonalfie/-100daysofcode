@@ -361,3 +361,11 @@
 **Thought's**:I was progressing well but experinced an issue with git...I guess I have to create another repo then.
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 4th 2024 - Day 46 of 100
+
+**Today's Progress**:I have added the signup page and managed to connect to the db
+
+**Thought's**:There is a small bug that I am still trying to fix in regard to the error..I know it will work out but so far so good
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
