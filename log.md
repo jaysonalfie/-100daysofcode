@@ -369,3 +369,11 @@
 **Thought's**:There is a small bug that I am still trying to fix in regard to the error..I know it will work out but so far so good
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 11th 2024 - Day 47 of 100
+
+**Today's Progress**:I was able to correct the bug in signup and also callibrated an authentication flow by adding protected routes
+
+**Thought's**:Day by day I get to learn that programming is more than coding but understanding the problem and how you approach it
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
