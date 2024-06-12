@@ -377,3 +377,11 @@
 **Thought's**:Day by day I get to learn that programming is more than coding but understanding the problem and how you approach it
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 12th 2024 - Day 48 of 100
+
+**Today's Progress**:Began research on how to include the add to cart feature
+
+**Thought's**:I tired to approach this thinking it can be done in a day but no...I have to take time and be patient
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
