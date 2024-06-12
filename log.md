@@ -382,6 +382,6 @@
 
 **Today's Progress**:Began research on how to include the add to cart feature
 
-**Thought's**:I tired to approach this thinking it can be done in a day but no...I have to take time and be patient
+**Thought's**:I tried to approach this thinking it can be done in a day but no...I have to take time and be patient
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
