@@ -385,3 +385,12 @@
 **Thought's**:I tried to approach this thinking it can be done in a day but no...I have to take time and be patient
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+
+### June 13th 2024 - Day 49 of 100
+
+**Today's Progress**:I was able to create a single page website and integrate a chatbot that I have been working on.
+
+**Thought's**:I had to use the basic tools and man did I realise that there is always a lot to learn and at least I got a glimpe at how responsivity works through CSS. Looking foward to researching more.
+
+**Link To Work**: no link to the project but it is in the works.
