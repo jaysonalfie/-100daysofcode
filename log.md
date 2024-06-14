@@ -395,7 +395,7 @@
 
 **Link To Work**: no link to the project but it is in the works.
 
-### June 13th 2024 - Day 50 of 100
+### June 14th 2024 - Day 50 of 100
 
 **Today's Progress**:I was able to add functiond to the cart file.
 
