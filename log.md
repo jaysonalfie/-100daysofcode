@@ -394,3 +394,11 @@
 **Thought's**:I had to use the basic tools and man did I realise that there is always a lot to learn and at least I got a glimpe at how responsivity works through CSS. Looking foward to researching more.
 
 **Link To Work**: no link to the project but it is in the works.
+
+### June 13th 2024 - Day 50 of 100
+
+**Today's Progress**:I was able to add functiond to the cart file.
+
+**Thought's**:I am still far off as I realise  I have to include first a dashnoard so that I continue with the cart......it getting deeper😪😪
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
