@@ -402,3 +402,11 @@
 **Thought's**:I am still far off as I realise  I have to include first a dashnoard so that I continue with the cart......it getting deeper😪😪
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 18th 2024 - Day 51 of 100
+
+**Today's Progress**:I started conducting reserach on how to create a dashboard that will be able to suite my project needs
+
+**Thought's**:I am still far off and I really need to find a way of organising myself but I know this is all part of the process and I will get there.
+
+**Link To Work**: no link to project  yet.
