@@ -1,0 +1,693 @@
+[33mcommit ab1da1386deb2649fc998fe97777c3dd1432fbd6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri May 24 17:34:32 2024 +0300
+
+    connected app to mysql
+
+[33mcommit 28daa5d560a6a648cf7cb2cffd86adcfdf2993cb[m
+Merge: de26d57 300217c
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 23 23:24:33 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit de26d5793d533b1fa13d71c7e1a9589fe44073ce[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 23 23:23:58 2024 +0300
+
+    debugged the api in delete and update
+
+[33mcommit 300217cf581251421b8086c6339c41409e399257[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu May 23 19:50:48 2024 +0300
+
+    Update log.md
+
+[33mcommit 74ea90e49a314d5411b59650fcfc696d58be96cf[m
+Merge: 60a2471 1615f4e
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 23 19:47:33 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 60a2471f4c16d8f2fdcded3962d9cefcd1b4ffb2[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 23 19:47:13 2024 +0300
+
+    creating simple api to show CRUD functiona
+
+[33mcommit 1615f4e2a2be93159b69726070d31cecba6df426[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed May 22 17:14:32 2024 +0300
+
+    Update log.md
+
+[33mcommit 70ee53e1b94cb444ceae9253421ea8a9cc3d8b86[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Fri May 17 19:22:56 2024 +0300
+
+    Update log.md
+
+[33mcommit c9c558a82928b0355c07dd9903d866be9ef31d01[m
+Merge: 70e0cb2 9f20093
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 16 19:12:07 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 70e0cb28b6c8d295852135124143bde0239d2b6d[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 16 19:11:35 2024 +0300
+
+    debugged authentication issue
+
+[33mcommit 9f2009334ba8014ff505d0652a512288124ebb3d[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu May 16 17:43:13 2024 +0300
+
+    Update log.md
+
+[33mcommit 6779e4d603aa222eccaca15beef4847b032b9f65[m
+Merge: b1f33ba b658de1
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 16 17:39:55 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit b1f33badd92e116a12dd9bebf8a4af4c9c63bcc6[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu May 16 17:39:46 2024 +0300
+
+    created api to authenticate users
+
+[33mcommit b658de18a784ad408e65e0f3823ccad9f6c4fe87[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed May 15 16:52:07 2024 +0300
+
+    Update log.md
+
+[33mcommit 724f8c288c1b4bc1485d07187e18af4d0ddfc147[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed May 15 16:51:40 2024 +0300
+
+    Update log.md
+
+[33mcommit 4f669bc7c43d5301e50e71a0e7e2f0b5fdbc1833[m
+Merge: 6d2d1be 9b21b05
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed May 15 16:35:50 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 6d2d1be74dd6e8f17bd4458e0403aef14ccf4b29[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed May 15 16:35:16 2024 +0300
+
+    path parameters
+
+[33mcommit 9b21b056755441a65ab9a345fbb2e1308764f78a[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon May 13 13:37:00 2024 +0300
+
+    Update log.md
+
+[33mcommit 9aeb296f92b3f39762c3923afeda9a776e812fe7[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu May 9 17:00:34 2024 +0300
+
+    Update log.md
+
+[33mcommit c48c0cffede11b7a4aa4c4772cbe9bdfd8b36941[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed May 8 18:15:12 2024 +0300
+
+    Update README.md
+
+[33mcommit e396f1afb839e2660a8fe700282b80c1b5a6a94d[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed May 8 18:07:40 2024 +0300
+
+    Update log.md
+
+[33mcommit 6893991044a0e6c683006a7c4cdc01978051fbc5[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue May 7 20:41:52 2024 +0300
+
+    Update log.md
+
+[33mcommit 4c773f6b5ced6d978cf405284b913ce9ffcb2bdd[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon May 6 14:40:41 2024 +0300
+
+    Update log.md
+
+[33mcommit 542be738e361b3d1354a15141eeae98e7ced4e48[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu May 2 16:53:13 2024 +0300
+
+    Update log.md
+
+[33mcommit 1c45b10c490a862f785a753b249cfe59e029206e[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Apr 29 19:36:41 2024 +0300
+
+    Update log.md
+
+[33mcommit 28e3080c657aed15981cefe534c18ffccd2c3fb7[m
+Merge: d256d81 2c6c638
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 29 18:53:57 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit d256d8186604d1ffd97508a58f9518957bb0ef00[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 29 18:53:34 2024 +0300
+
+    created a contact card
+
+[33mcommit 2c6c6389260a36fcbdc99048b8ac9c79c3b54a50[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Sat Apr 27 15:33:17 2024 +0300
+
+    Update log.md
+
+[33mcommit f1c02b66cd70308496f17284a1bce9b0c60f2549[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Fri Apr 26 11:21:08 2024 +0300
+
+    Update log.md
+
+[33mcommit e1dc53ac856f65542006bf28244272e83b525d1d[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed Apr 24 21:38:57 2024 +0300
+
+    Update log.md
+
+[33mcommit 5ad168d0bd3b484fac8a8e96176aff2fbd2c84e9[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed Apr 24 21:38:29 2024 +0300
+
+    Update log.md
+
+[33mcommit ad3739a14d41f83f0f6cbe4e42ba22c5c922cf7f[m
+Merge: e54f6f8 3180b37
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 22 18:25:08 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit e54f6f8a326948c3b0f1a844e1d1124f305548b0[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 22 18:24:49 2024 +0300
+
+    flexbox basics
+
+[33mcommit 3180b37bcf8ef6422da5158dea1792a3f85f2d4f[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Apr 22 16:20:38 2024 +0300
+
+    Update log.md
+
+[33mcommit de2362b35aaf361a14da49a69e68c80f4559ec46[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Fri Apr 19 12:11:36 2024 +0300
+
+    Update log.md
+
+[33mcommit 3f4c6b7b7611d31a31d339257cebecae3af29953[m
+Merge: bd590a5 37c1608
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Apr 19 12:05:36 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit bd590a5849728be17a7f9a8aab50fca8637c8211[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Apr 19 12:05:22 2024 +0300
+
+    removing todos and useReducer hook
+
+[33mcommit 37c1608b4a5ec0e6ded237fd9eb02f008760d82a[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu Apr 18 23:13:43 2024 +0300
+
+    Update log.md
+
+[33mcommit 804f61353f7a31b0acb7256a366cb96567bb7d13[m
+Merge: 47d1fd7 e579d43
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Apr 18 21:13:34 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 47d1fd7f5bf820b341b8923d5f59125ce3053d93[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Apr 18 21:13:16 2024 +0300
+
+    hooks useState and useEffect
+
+[33mcommit e579d43c877fdcf71ec37822ba459c63fe8f6ba1[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu Apr 18 19:24:58 2024 +0300
+
+    Update log.md
+
+[33mcommit d02d177a061782790adc9427f0714966ff4fd45e[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Apr 17 13:07:34 2024 +0300
+
+    consuming different contexts in a single component
+
+[33mcommit e6278e7aa7500e568a0f20c4ea2800254cf3e52e[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Apr 16 16:36:14 2024 +0300
+
+    Update log.md
+
+[33mcommit ee2a3428b6a7b6166a1f7dcdda2e962c11540bd8[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Apr 16 15:54:21 2024 +0300
+
+    consuming in context api
+
+[33mcommit 8edb69aa88dfd9587c153293c71ed8b12d43b52c[m
+Merge: 62f2636 246e22d
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 15 22:29:27 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 62f263632afb425ec2ef9adbed2c30be305b8afc[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 15 22:29:14 2024 +0300
+
+    state management with context api
+
+[33mcommit 246e22d67ee357699601dbb384da532d49851b04[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Apr 15 13:13:07 2024 +0300
+
+    Update log.md
+
+[33mcommit c4d39f5822c48c6d9abc4ea831ba06dac94ffa6e[m
+Merge: 8bd7051 03608bc
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 15 12:36:55 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 8bd7051f3e7663457c9987263ca88c839fc042c2[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 15 12:36:45 2024 +0300
+
+    redux state management and
+
+[33mcommit 03608bc9169307851bd7836ad13ecd7214c00c6b[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Sat Apr 6 23:09:14 2024 +0300
+
+    Update log.md
+
+[33mcommit 46f77107e6a2451930d2ab2ac89d65bb7fdb938a[m
+Merge: e148f3e c6c0150
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Sat Apr 6 23:05:10 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit e148f3e03341141fd16df22dc175a3f343c68f5b[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Sat Apr 6 23:04:59 2024 +0300
+
+    redux revision and connecting component
+
+[33mcommit c6c01502f400ecb87c765aac5c2cf889c8ea5725[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed Apr 3 16:54:14 2024 +0300
+
+    Update log.md
+
+[33mcommit 50f37f472f9a7ac9de35710acd50a12467870f74[m
+Merge: 5340dc9 f5d6e24
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Apr 3 16:47:23 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 5340dc9c938dab7be47a18714f9cf0e292d137e9[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Apr 3 16:47:14 2024 +0300
+
+    setting up react, connection to commponent
+
+[33mcommit f5d6e24fd596bba734ceed812844f5f177256f49[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Apr 2 18:34:55 2024 +0300
+
+    Update log.md
+
+[33mcommit 3c8419b0a3b36dc0f084edf74b159cf39a32ad10[m
+Merge: 59772b7 2e78bfd
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Apr 2 18:30:10 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 59772b70aae9cc28c163568d4e05d3d28c865972[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Apr 2 18:29:58 2024 +0300
+
+    React portals in implementing modals
+
+[33mcommit 2e78bfdc06d8b72bdfd038aabffeb7b3aaca4127[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Apr 1 19:35:54 2024 +0300
+
+    Update README.md
+
+[33mcommit 6192dd495dfc77aab140688f9247f807c77874da[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Apr 1 19:29:10 2024 +0300
+
+    Update log.md
+
+[33mcommit c560bf021a1caae5685af5a1172a06243f9338f7[m
+Merge: 24a19d3 f0e330f
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 1 19:24:38 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 24a19d37eb1697a52d935b75d2bbac25b41381d9[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Apr 1 19:24:27 2024 +0300
+
+    modal creation
+
+[33mcommit f0e330fc85d11bdd24e630de76e9f1d17f01db58[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Fri Mar 29 15:19:17 2024 +0300
+
+    Update log.md
+
+[33mcommit 8967fb51999b37e41741e9760ddb89244be0302f[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 29 15:13:17 2024 +0300
+
+    react router
+
+[33mcommit e32ae68dd0a3eead1ae89472246dca2f155e1ca9[m
+Merge: 68627e2 d71d269
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 29 11:33:24 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 68627e2498a361b5f38ef9de0021fc73cb7460b0[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 29 11:32:53 2024 +0300
+
+    rendering a list of components
+
+[33mcommit d71d269e7ba23d83d427de0159d3c07c1a9f78e7[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu Mar 28 23:55:53 2024 +0300
+
+    Create README.md
+
+[33mcommit b2b5e9498acb3bde90e9218a129e5bd986130e47[m
+Merge: 3e06a80 40e12a9
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 28 23:54:36 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 3e06a80ad6bf2a308dc10a21601ce58e2192be80[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 28 23:54:12 2024 +0300
+
+    data fetching from outside API
+
+[33mcommit 40e12a9902ef04773023e0519340cb6d8a968fb0[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu Mar 28 21:10:45 2024 +0300
+
+    Update log.md
+
+[33mcommit 15481108ca2cd4199d2ee3b69c336d2d5d43fae5[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 28 16:12:52 2024 +0300
+
+    handling form inputs
+
+[33mcommit 6d70d126ef21da3ba3ea0e4c9bb198717e8e2b4f[m
+Merge: 33833e5 ccdedc8
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 28 00:17:01 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 33833e5150d6fb9e21a82f31a7276bfb521ddfe5[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 28 00:16:51 2024 +0300
+
+    handling formn in react
+
+[33mcommit ccdedc80cab076acbe0f7de73003ecd14415de86[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed Mar 27 17:22:16 2024 +0300
+
+    Update log.md
+
+[33mcommit 807789a3495c31de751f13f5af3d19a6a4be1cda[m
+Merge: 4717948 adf4e20
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Mar 27 13:56:58 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 471794812ff02a3cbd2336821586c3e7a86bbb06[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Mar 27 13:56:44 2024 +0300
+
+    destructuring assignment
+
+[33mcommit adf4e20586f8f8f940d135a3efb917bad4aa5f1b[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Mar 26 18:34:37 2024 +0300
+
+    Update log.md
+
+[33mcommit e1b78051510ced5f436eb516be1f50f1e218037b[m
+Merge: 0aed6d3 5a2fe01
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Mar 26 18:30:39 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 0aed6d3e6b7b8e7b5e156828f91c257513bf42e8[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Mar 26 18:30:30 2024 +0300
+
+    conditional rendering
+
+[33mcommit 5a2fe01ee5fba986f71856a0eb1d5553125d85f6[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Mar 25 20:47:02 2024 +0300
+
+    Update log.md
+
+[33mcommit b0eaa61ff3c528a6721800c880baeaa884e9181c[m
+Merge: 61de146 500ba44
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Mar 25 20:43:17 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 61de146e31d30b22fde81bf2fa49ba1aa84f01b1[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Mar 25 20:43:06 2024 +0300
+
+    class based components
+
+[33mcommit 500ba44e8a5b82c894ba422f1447b1f18968ae91[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Mar 19 19:25:29 2024 +0300
+
+    Update log.md
+
+[33mcommit 53a213d272faf0e52f89e9489d556256bc14750d[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Mar 19 18:11:34 2024 +0300
+
+    Update log.md
+
+[33mcommit 2ca402a8623952720c9470011a432636b6e4b6ef[m
+Merge: f671438 9575bfb
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Mar 19 18:07:07 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit f6714384d9bb2aad7dee8f2879b5df8cb48e654a[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Mar 19 18:06:53 2024 +0300
+
+    prop system
+
+[33mcommit 9575bfbb39a89240f98a680e268cec740ba32a9e[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Mar 18 23:29:37 2024 +0300
+
+    Update log.md
+
+[33mcommit 01094f4f183554935c09b26fe740d3853b6a56e7[m
+Merge: b03cec4 f4f6481
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Mar 18 23:24:44 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit b03cec4e5d8bd07d242def40987a67da24b04163[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Mar 18 23:24:23 2024 +0300
+
+    component nesting
+
+[33mcommit f4f6481bac6b724f17e835e1c109e384aac6ccb1[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Fri Mar 15 23:20:17 2024 +0300
+
+    Update log.md
+
+[33mcommit d806364e1b45ada972a0c37f2cd30b740c31eca7[m
+Merge: 39c5a43 4cf2281
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 15 19:27:12 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 39c5a43c4fdefd053152ba9728d8696569ec6086[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 15 19:26:45 2024 +0300
+
+    fizzbuzz
+
+[33mcommit 4cf2281ab603853d57abd5991a44104ec76b9771[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Fri Mar 15 17:08:56 2024 +0300
+
+    Update log.md
+
+[33mcommit 40bcd825fadcc1b65482ddef9fbf87c39329fe2c[m
+Merge: d6859ae 9927b5a
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 15 16:53:51 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit d6859aef3aaa0402485371a5dbe0bab3dc7e07af[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 15 16:53:24 2024 +0300
+
+    react 101
+
+[33mcommit 9927b5a416e08964d823af6efaeda57452d99241[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu Mar 14 23:06:40 2024 +0300
+
+    Update log.md
+
+[33mcommit 547b4703599284130388ffc65d6ca23c6550229a[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Thu Mar 14 22:46:12 2024 +0300
+
+    Update log.md
+
+[33mcommit 17244007aafa5947e9f9d1a6f60492c095402950[m
+Merge: 4e4afb4 c11740e
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 14 13:46:54 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 4e4afb4e494d9401d0c59c5d6e4cfc7bf63f597d[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Thu Mar 14 13:46:27 2024 +0300
+
+    learnt about DOM in js
+
+[33mcommit c11740e05c5f260437fab087e7dd8d03ea7c9c04[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Wed Mar 13 18:20:32 2024 +0300
+
+    Update log.md
+
+[33mcommit fa12286189355674a8589fa5bbc87954fc4df57e[m
+Merge: 4e1c4e2 03a9a04
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Mar 13 18:14:40 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 4e1c4e2cde1ad023766dc379d5187ee3d62f5365[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Wed Mar 13 18:13:08 2024 +0300
+
+    js basics 3
+
+[33mcommit 03a9a04e52ee411df4a1389ea071034de2b28e56[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Mar 12 21:02:38 2024 +0300
+
+    Update log.md
+
+[33mcommit 9638597724e7b00275b40ce9c0cf86d31e7f27bf[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Mar 12 21:00:42 2024 +0300
+
+    Update log.md
+
+[33mcommit 959524ce752b33ae9bd437a8e1067072b11a5770[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Tue Mar 12 19:35:07 2024 +0300
+
+    Update log.md
+
+[33mcommit 047ec704859d134ac4e62d701b954584d73155fc[m
+Merge: 8c946e6 04c2367
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Mar 12 19:30:13 2024 +0300
+
+    Merge branch 'main' of https://github.com/jaysonalfie/-100daysofcode
+
+[33mcommit 8c946e6dcf8c8231b26bc7cdc5dcc580193be95b[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Tue Mar 12 19:26:07 2024 +0300
+
+    js basic 2
+
+[33mcommit 04c23674b251048e22264c34d380e2e9eed4c0b9[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Mar 11 22:12:01 2024 +0300
+
+    Update log.md
+
+[33mcommit f7f05cbdd5d12dcad399d80e47c02b8df50058f0[m
+Author: jaysonalfie <104353718+jaysonalfie@users.noreply.github.com>
+Date:   Mon Mar 11 22:11:32 2024 +0300
+
+    Update log.md
+
+[33mcommit 3e401ba0ceba5e5cd43882ab1a7d3c0869044a96[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Mon Mar 11 22:08:20 2024 +0300
+
+    javascript basics
+
+[33mcommit 103f171da2e37464a5c9f47177040d7ec9283564[m
+Author: jaysonalfie <jaysonalfiea20@students.tukenya.ac.ke>
+Date:   Fri Mar 8 12:26:21 2024 +0300
+
+    first commit
