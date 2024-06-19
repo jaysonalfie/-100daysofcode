@@ -410,3 +410,12 @@
 **Thought's**:I am still far off and I really need to find a way of organising myself but I know this is all part of the process and I will get there.
 
 **Link To Work**: no link to project  yet.
+
+### June 19th 2024 - Day 52 of 100
+
+**Today's Progress**:I still continued with conducting reserach on how to create a dashboard that will be able to suite my project needs and also managed to revise a bit about js arrays
+
+**Thought's**:I feel stuck at the moment but still looking for an alternative way to make this work...it will addd up soon enough and through the simplest way possible.
+
+**Link To Work**: no link to project  yet.
+
