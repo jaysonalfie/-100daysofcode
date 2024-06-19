@@ -320,4 +320,93 @@
 
 **Link To Work**: https://github.com/jaysonalfie/-100daysofcode
 
+### May 27th 2024 - Day 41 of 100
 
+**Today's Progress**:Added endpoints to delete and add posts to the application I was learning with. Aso connected the aquaflow app to mysql database
+
+**Thought's**:Still taking things slow to make them make sense as I proceed.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode
+
+
+### May 28th 2024 - Day 42 of 100
+
+**Today's Progress**:Started creating the backend of this simple app so as to get to understand how fastapi works on the backend
+
+**Thought's**:I am experiecing some bugs but still trying to solve them as I proceed as the application is not rendering
+
+**Link To Work**: https://github.com/jaysonalfie/React-FastAPI-authentication
+
+### May 29th 2024 - Day 43 of 100
+
+**Today's Progress**:Managed to create a simple log in form and connected it to the backend to enable the authentication to take place.
+
+**Thought's**:I am now getting a grip of the backend fundamentals and how to connect to frontend...I hope I will fully understand as I proceed.
+
+**Link To Work**: https://github.com/jaysonalfie/React-FastAPI-authentication
+
+
+### May 30th 2024 - Day 44 of 100
+
+**Today's Progress**:I was able to create an api to register a user and confirmed that it sends the data to the backend
+
+**Thought's**:I am now getting to understand more and more and in good time I will be better...I believe so.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### May 31st 2024 - Day 45 of 100
+
+**Today's Progress**:Was able to add the login page and connected it to the authentication api.
+
+**Thought's**:I was progressing well but experinced an issue with git...I guess I have to create another repo then.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 4th 2024 - Day 46 of 100
+
+**Today's Progress**:I have added the signup page and managed to connect to the db
+
+**Thought's**:There is a small bug that I am still trying to fix in regard to the error..I know it will work out but so far so good
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 11th 2024 - Day 47 of 100
+
+**Today's Progress**:I was able to correct the bug in signup and also callibrated an authentication flow by adding protected routes
+
+**Thought's**:Day by day I get to learn that programming is more than coding but understanding the problem and how you approach it
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 12th 2024 - Day 48 of 100
+
+**Today's Progress**:Began research on how to include the add to cart feature
+
+**Thought's**:I tried to approach this thinking it can be done in a day but no...I have to take time and be patient
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+
+### June 13th 2024 - Day 49 of 100
+
+**Today's Progress**:I was able to create a single page website and integrate a chatbot that I have been working on.
+
+**Thought's**:I had to use the basic tools and man did I realise that there is always a lot to learn and at least I got a glimpe at how responsivity works through CSS. Looking foward to researching more.
+
+**Link To Work**: no link to the project but it is in the works.
+
+### June 14th 2024 - Day 50 of 100
+
+**Today's Progress**:I was able to add functiond to the cart file.
+
+**Thought's**:I am still far off as I realise  I have to include first a dashnoard so that I continue with the cart......it getting deeper😪😪
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 18th 2024 - Day 51 of 100
+
+**Today's Progress**:I started conducting reserach on how to create a dashboard that will be able to suite my project needs
+
+**Thought's**:I am still far off and I really need to find a way of organising myself but I know this is all part of the process and I will get there.
+
+**Link To Work**: no link to project  yet.
