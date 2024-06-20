@@ -419,3 +419,11 @@
 
 **Link To Work**: no link to project  yet.
 
+### June 20th 2024 - Day 53 of 100
+
+**Today's Progress**:I manages to start on the dahsboard by creating the sidebar menu and still oing on
+
+**Thought's**:I am starting small as I go on..I guess the bigger picture will unveil as I go on...but next time I will plan ahead better.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
