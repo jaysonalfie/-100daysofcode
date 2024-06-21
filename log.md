@@ -421,9 +421,17 @@
 
 ### June 20th 2024 - Day 53 of 100
 
-**Today's Progress**:I manages to start on the dahsboard by creating the sidebar menu and still oing on
+**Today's Progress**:I managed to start on the dahsboard by creating the sidebar menu and still going on
 
 **Thought's**:I am starting small as I go on..I guess the bigger picture will unveil as I go on...but next time I will plan ahead better.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 21st 2024 - Day 54 of 100
+
+**Today's Progress**:I was able to add the top section to the dashboard and I will still continue to do so till I get it right
+
+**Thought's**:I am learning to be patient as I learn on...slow and steady.
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
