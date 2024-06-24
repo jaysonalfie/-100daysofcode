@@ -410,3 +410,28 @@
 **Thought's**:I am still far off and I really need to find a way of organising myself but I know this is all part of the process and I will get there.
 
 **Link To Work**: no link to project  yet.
+
+### June 19th 2024 - Day 52 of 100
+
+**Today's Progress**:I still continued with conducting reserach on how to create a dashboard that will be able to suite my project needs and also managed to revise a bit about js arrays
+
+**Thought's**:I feel stuck at the moment but still looking for an alternative way to make this work...it will addd up soon enough and through the simplest way possible.
+
+**Link To Work**: no link to project  yet.
+
+### June 20th 2024 - Day 53 of 100
+
+**Today's Progress**:I managed to start on the dahsboard by creating the sidebar menu and still going on
+
+**Thought's**:I am starting small as I go on..I guess the bigger picture will unveil as I go on...but next time I will plan ahead better.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 21st 2024 - Day 54 of 100
+
+**Today's Progress**:I was able to add the top section to the dashboard and I will still continue to do so till I get it right
+
+**Thought's**:I am learning to be patient as I learn on...slow and steady.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
