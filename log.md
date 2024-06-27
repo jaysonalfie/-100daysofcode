@@ -435,3 +435,19 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### June 24th 2024 - Day 55 of 100
+
+**Today's Progress**:I decided to do some refreshing on some vanilla Js and looked into the basics just as a reminder
+
+**Thought's**:I have realised that I have to know what I am doing and not only on the shallow part of it.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode
+
+### June 27th 2024 - Day 56 of 100
+
+**Today's Progress**:I was able to go through some of the dashboard theory and managed to add a little bit to it
+
+**Thought's**:The project has come to have a deadline and I am only half way through....I just have to do this though what lies ahead is still blurry
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
