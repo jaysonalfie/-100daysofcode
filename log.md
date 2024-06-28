@@ -451,3 +451,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### June 28th 2024 - Day 57 of 100
+
+**Today's Progress**:I was able to go add a form in the dahsbord that will enable me to add products and created an api.
+
+**Thought's**:My programming planning needs work...but I know i will get there...just have to move foward
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
