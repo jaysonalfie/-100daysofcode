@@ -459,3 +459,19 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 1st 2024 - Day 58 of 100
+
+**Today's Progress**:I was able change my card js components and also ensured that the form adds data to the backened which can be retrived from the shop.js
+
+**Thought's**:Putting my best foot foward this month and I hope to give my very best
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 2nd 2024 - Day 59 of 100
+
+**Today's Progress**:I was able to connect the shop.js to the backend and when products are added from the dashboard they appear at the Shop.js Component.
+
+**Thought's**:This is going on well ...and we are going harder at it till it is done.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
