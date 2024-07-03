@@ -475,3 +475,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 3rd 2024 - Day 60 of 100
+
+**Today's Progress**:I created a cart component and added it to shop.js
+
+**Thought's**:I have encountered a few bugs and looking foward to solve them.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
