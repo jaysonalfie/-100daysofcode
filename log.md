@@ -435,3 +435,51 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### June 24th 2024 - Day 55 of 100
+
+**Today's Progress**:I decided to do some refreshing on some vanilla Js and looked into the basics just as a reminder
+
+**Thought's**:I have realised that I have to know what I am doing and not only on the shallow part of it.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode
+
+### June 27th 2024 - Day 56 of 100
+
+**Today's Progress**:I was able to go through some of the dashboard theory and managed to add a little bit to it
+
+**Thought's**:The project has come to have a deadline and I am only half way through....I just have to do this though what lies ahead is still blurry
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### June 28th 2024 - Day 57 of 100
+
+**Today's Progress**:I was able to add a form in the dahsbord that will enable me to add products and created an api.
+
+**Thought's**:My programming planning needs work...but I know i will get there...just have to move foward
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 1st 2024 - Day 58 of 100
+
+**Today's Progress**:I was able change my card js components and also ensured that the form adds data to the backened which can be retrived from the shop.js
+
+**Thought's**:Putting my best foot foward this month and I hope to give my very best
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 2nd 2024 - Day 59 of 100
+
+**Today's Progress**:I was able to connect the shop.js to the backend and when products are added from the dashboard they appear at the Shop.js Component.
+
+**Thought's**:This is going on well ...and we are going harder at it till it is done.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 3rd 2024 - Day 60 of 100
+
+**Today's Progress**:I created a cart component and added it to shop.js
+
+**Thought's**:I have encountered a few bugs and looking foward to solve them.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
