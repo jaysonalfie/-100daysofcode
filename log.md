@@ -483,3 +483,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 4th 2024 - Day 61 of 100
+
+**Today's Progress**:I was able to deal with the bugs on the two components
+
+**Thought's**:I now have to look into the checkout and the payment integration....another challenge to conquer.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
