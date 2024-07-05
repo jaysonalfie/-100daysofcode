@@ -491,3 +491,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 5th 2024 - Day 62 of 100
+
+**Today's Progress**:I began reseearch on Daraja Api so as to be able to integrate it
+
+**Thought's**:I am doing it with flask so as to change it to FastAPI later...I do not know how wise that is.....just trying to do something as this is a new space
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
