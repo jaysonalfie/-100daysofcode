@@ -499,3 +499,11 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 8th 2024 - Day 63 of 100
+
+**Today's Progress**:I was able to host my flask app on render and successfully register the urls 
+
+**Thought's**:I am doing it with flask so as to change it to FastAPI later...I do not know how wise that is.....just trying to do something as this is a new space. I just have to push on a bit more.
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
