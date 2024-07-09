@@ -507,3 +507,11 @@
 
 **Link To Work**:https://darajaflaskapp-4.onrender.com/
 
+### July 9th 2024 - Day 64 of 100
+
+**Today's Progress**:I was able to add a route that would enable STK push
+
+**Thought's**:Well the route aint working yet so I guess i have to be patient to get it right
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
