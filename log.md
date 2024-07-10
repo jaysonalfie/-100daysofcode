@@ -515,3 +515,11 @@
 
 **Link To Work**:https://darajaflaskapp-4.onrender.com/
 
+### July 10th 2024 - Day 65 of 100
+
+**Today's Progress**:I was able to debug the stk push error and it is now able to prompt for payment
+
+**Thought's**:I decided to take it slow and at least it has worked now onto the elephant in the room which is aquaflow/
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
