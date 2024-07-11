@@ -523,3 +523,11 @@
 
 **Link To Work**:https://darajaflaskapp-4.onrender.com/
 
+### July 11th 2024 - Day 66 of 100
+
+**Today's Progress**:I was able to create the stk push on a fastAPI application
+
+**Thought's**:Indeed there is more to learn and just discovered that there is more to just the STK push working
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
