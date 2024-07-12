@@ -531,3 +531,11 @@
 
 **Link To Work**:https://darajaflaskapp-4.onrender.com/
 
+### July 12th 2024 - Day 67 of 100
+
+**Today's Progress**:I was able to connect the stk push to receive data from the frontend
+
+**Thought's**:The task now remains on how the payment data will be stored. I know i will figure it out
+
+**Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
+
