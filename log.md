@@ -539,3 +539,11 @@
 
 **Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 16th 2024 - Day 68 of 100
+
+**Today's Progress**:I was able to create the services page and the blogs page and I also added  an order summary route to the backend
+
+**Thought's**:The project is going on well and will still look into it to make it better
+
+**Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
+
