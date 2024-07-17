@@ -547,3 +547,12 @@
 
 **Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
 
+
+### July 17th 2024 - Day 69 of 100
+
+**Today's Progress**:I was able to present my project to the lecturers and glad that It met most of the objectives
+
+**Thought's**:Well that is done and I am just hoping for the best but I will still continue learning
+
+**Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
+
