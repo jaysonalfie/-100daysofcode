@@ -483,3 +483,76 @@
 
 **Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
 
+### July 4th 2024 - Day 61 of 100
+
+**Today's Progress**:I was able to deal with the bugs on the two components
+
+**Thought's**:I now have to look into the checkout and the payment integration....another challenge to conquer.
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 5th 2024 - Day 62 of 100
+
+**Today's Progress**:I began reseearch on Daraja Api so as to be able to integrate it
+
+**Thought's**:I am doing it with flask so as to change it to FastAPI later...I do not know how wise that is.....just trying to do something as this is a new space
+
+**Link To Work**: https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 8th 2024 - Day 63 of 100
+
+**Today's Progress**:I was able to host my flask app on render and successfully register the urls 
+
+**Thought's**:I am doing it with flask so as to change it to FastAPI later...I do not know how wise that is.....just trying to do something as this is a new space. I just have to push on a bit more.
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
+### July 9th 2024 - Day 64 of 100
+
+**Today's Progress**:I was able to add a route that would enable STK push
+
+**Thought's**:Well the route aint working yet so I guess i have to be patient to get it right
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
+### July 10th 2024 - Day 65 of 100
+
+**Today's Progress**:I was able to debug the stk push error and it is now able to prompt for payment
+
+**Thought's**:I decided to take it slow and at least it has worked now onto the elephant in the room which is aquaflow/
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
+### July 11th 2024 - Day 66 of 100
+
+**Today's Progress**:I was able to create the stk push on a fastAPI application
+
+**Thought's**:Indeed there is more to learn and just discovered that there is more to just the STK push working
+
+**Link To Work**:https://darajaflaskapp-4.onrender.com/
+
+### July 12th 2024 - Day 67 of 100
+
+**Today's Progress**:I was able to connect the stk push to receive data from the frontend
+
+**Thought's**:The task now remains on how the payment data will be stored. I know i will figure it out
+
+**Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
+
+### July 16th 2024 - Day 68 of 100
+
+**Today's Progress**:I was able to create the services page and the blogs page and I also added  an order summary route to the backend
+
+**Thought's**:The project is going on well and will still look into it to make it better
+
+**Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
+
+
+### July 17th 2024 - Day 69 of 100
+
+**Today's Progress**:I was able to present my project to the lecturers and glad that It met most of the objectives
+
+**Thought's**:Well that is done and I am just hoping for the best but I will still continue learning
+
+**Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
+
