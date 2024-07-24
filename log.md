@@ -556,3 +556,20 @@
 
 **Link To Work**:https://github.com/jaysonalfie/Aquaflow-Project
 
+
+### July 23rd - Day 70 of 100
+
+**Today's Progress**: Looked into arrays. methods, objects in JS
+
+**Thought's**:Learning bit by bit on the basics so as to have a firm foundation.
+
+**Link To Work**: https://github.com/jaysonalfie/-100daysofcode.git
+
+### July 24th - Day 71 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:Learning bit by bit on the basics on python too to have a grasp as I really want this
+
+**Link To Work**: ni link to this work yet.
+
