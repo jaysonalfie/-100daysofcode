@@ -262,7 +262,7 @@ const person2 = {
 //ES6 arrow function utilizing an object(2 arguments)
 //used object and also template literals
 /**
- * Methods - property containin a function definition
+ * Methods - property containing a function definition
  * you can store function inside an object
  */
 const introducer = (name,shirt)=>{
