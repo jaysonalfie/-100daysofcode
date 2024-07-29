@@ -571,7 +571,7 @@
 
 **Thought's**:Learning bit by bit on the basics on python too to have a grasp as I really want this
 
-**Link To Work**: ni link to this work yet.
+**Link To Work**: no link to this work yet.
 
 ### July 25th - Day 72 of 100
 
@@ -579,7 +579,7 @@
 
 **Thought's**:The webhook function is still not connecting to the database...I guess I will have to look more into it.
 
-**Link To Work**: ni link to this work yet
+**Link To Work**: no link to this work yet
 
 ### July 26th - Day 73 of 100
 
@@ -587,7 +587,7 @@
 
 **Thought's**:Some progress so far but the function is not able to query from the database.I am still trying to look into it
 
-**Link To Work**: ni link to this work yet
+**Link To Work**: no link to this work yet
 
 ### July 29th - Day 74 of 100
 
@@ -595,5 +595,5 @@
 
 **Thought's**:Well still stuck at it but something has to pull through regardless of  how long it takes
 
-**Link To Work**: ni link to this work yet
+**Link To Work**: no link to this work yet
 
