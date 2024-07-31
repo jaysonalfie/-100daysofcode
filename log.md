@@ -597,3 +597,19 @@
 
 **Link To Work**: no link to this work yet
 
+### July 30th - Day 75 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:Well there was some progress to ge it to work but still not retrieving any information yet.
+
+**Link To Work**: no link to this work yet
+
+### July 31st - Day 76 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:The function works but it is only able to source data from the localhost database
+
+**Link To Work**: no link to this work yet
+
