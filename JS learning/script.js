@@ -294,3 +294,76 @@ const introducer = (name,shirt)=>{
 // console.log(introducer('Leonardo', 'white'))
 
 
+/**For loops */
+//run the loop so long as the index is less the length of the elemenst in the array
+const fruits = ['banana','mango', 'pineapple','orange']
+// for (let i =0; i <fruits.length; i++){
+//   // console.log(i,fruits[i])
+// }
+
+//easier way of writing for loop
+//repeats loop until all elements are done
+for (const fruit of fruits){
+  // console.log(fruit)
+}
+
+const numbers = [1,2,3,4,5,6,7,8,9]
+
+// for (let i=0;i<numbers.length;i++){
+//   console.log(numbers[i])
+
+// }
+
+
+//function that takes in an array of numbers and doubles them and stores then in the result array
+const double = (numbers) =>{
+    let result = []
+    for(const number of numbers){
+      result.push(number * 2)
+    }
+    return result
+}
+// console.log(double([1,2,3,4,5,6]))
+
+//function that squares by use of expoenential
+const square = (numbers) =>{
+  let result = []
+  for(const number of numbers){
+    result.push(number ** 2)
+  }
+  return result
+}
+
+// console.log(square([1,2,3,4,5,6]))
+// let result = []
+
+// for (const number of numbers){
+//   // console.log(number* 2)
+//   result.push(number * 2)
+// }
+
+// console.log(result)
+
+//letter counter function
+const howManyLetters = (phrase) => {
+    //for strings you can just use .length
+    
+    // return {result: phrase.length}
+  
+  let result = 0;
+  for (const index in phrase) {
+    console.log(Number(index) + 1)
+    //use of typecasting which is assigning one value of primitive datatype to another type
+    result = Number(index) + 1
+  }
+  //returning result as an object
+  return {result :result}
+}
+  // const phrase = 'Hey, how are you doing today and how do you feel?'
+  const phrase = prompt('write your phrase')
+// console.log(howManyLetters(phrase))
+
+//2.26.32
+
+
+
