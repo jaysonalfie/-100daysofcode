@@ -571,5 +571,45 @@
 
 **Thought's**:Learning bit by bit on the basics on python too to have a grasp as I really want this
 
-**Link To Work**: ni link to this work yet.
+**Link To Work**: no link to this work yet.
+
+### July 25th - Day 72 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:The webhook function is still not connecting to the database...I guess I will have to look more into it.
+
+**Link To Work**: no link to this work yet
+
+### July 26th - Day 73 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:Some progress so far but the function is not able to query from the database.I am still trying to look into it
+
+**Link To Work**: no link to this work yet
+
+### July 29th - Day 74 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:Well still stuck at it but something has to pull through regardless of  how long it takes
+
+**Link To Work**: no link to this work yet
+
+### July 30th - Day 75 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:Well there was some progress to ge it to work but still not retrieving any information yet.
+
+**Link To Work**: no link to this work yet
+
+### July 31st - Day 76 of 100
+
+**Today's Progress**: Was able to create a webhook python function to be used in a chatbot
+
+**Thought's**:The function works but it is only able to source data from the localhost database
+
+**Link To Work**: no link to this work yet
 
