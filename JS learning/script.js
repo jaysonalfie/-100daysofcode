@@ -360,10 +360,106 @@ const howManyLetters = (phrase) => {
   return {result :result}
 }
   // const phrase = 'Hey, how are you doing today and how do you feel?'
-  const phrase = prompt('write your phrase')
+  // const phrase = prompt('write your phrase')
 // console.log(howManyLetters(phrase))
 
 //2.26.32
 
+//function to show the maximum number in the array
+const max =(numbers) =>{
+   let result = numbers[0]
+    //loop
+    for (const number of numbers){
+       if (number > result){
+        result = number
+       }
+    }
 
 
+   return { result }
+}
+
+// console.log(max([1,2,3,4,5,6,1,3,4,2,3,89,785]))
+
+//function to get the min value
+const min =(numbers)=>{
+  let result = numbers[0]
+  //loops and looks for the number that is the least in the array
+  for(const number of numbers){
+    if(number < result){
+      result = number
+    }
+  }
+  return {result}
+}
+
+// console.log(min([7,8,9,6,7,]))
+
+//function that sums numbers in array
+const sumArray = (numbers)=>{
+  let result = 0
+  for(const number of numbers){
+    result += number
+  }
+  return { result }
+}
+// console.log(sumArray([1,2,5,4,2]))
+
+//function to calculate frequency
+
+const letterFrequency = (phrase)=> {
+      //return frequency of each letter
+      // console.log(phrase)
+      //make a frequency object
+      let frequency = {}
+      
+      for(const letter of phrase){
+        //check if letter exists in frequency
+        if(letter in frequency){
+          //if it exists the increment the value by 1
+          frequency[letter] += 1
+        //otherwise set the value to one
+        }else{
+          frequency[letter] = 1
+        }
+      }
+
+      return frequency
+
+}
+
+// console.log(letterFrequency('hahah'))
+
+//incremental operators
+// ++, -- , +=,
+
+//function to get word frequency
+//('hello hello whatsup') = {'hello':2, 'whatsup':1}
+const wordFrequency = (phrase)=>{
+  // let frequency = {}
+    //logic
+    //turn the string into an array
+  //  words = phrase.split(' ')
+  //  console.log(words)
+  //  //loop
+  //  for(const word of words){
+  //   // console.log(word)
+  //   if(word in frequency){
+  //    frequency[word] +=1 
+  //   }else{
+
+  //     frequency[word] = 1
+  //   }
+
+
+  //  }
+  // return frequency
+
+  //alternative is using the letterFrequency method which is similar to it
+  const words = phrase.split(' ')
+  return letterFrequency(words)
+}
+
+console.log(wordFrequency('hello hello wassup yo yo yo'))
+
+// 2:56:36
