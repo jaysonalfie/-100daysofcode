@@ -613,3 +613,11 @@
 
 **Link To Work**: no link to this work yet
 
+
+### August 1st - Day 77 of 100
+
+**Today's Progress**: Still tried to make the cloud function to connect to the MySQL instance.
+
+**Thought's**:Still at cross roads on how this will work ....more research maybe....well only one way to find out
+
+**Link To Work**: no link to this work yet
