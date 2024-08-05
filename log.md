@@ -629,3 +629,12 @@
 **Thought's**:I think either there is something that I am missing on the logic....I hope I will crack this...I am so close....just have to figure out where
 
 **Link To Work**: no link to this work yet
+
+### August 5th - Day 79 of 100
+
+**Today's Progress**: Made the function to be able to communicate to the SQL instance from my local machine.
+
+**Thought's**:one step closer to figuring it out but so far so good.....lets continue....
+
+**Link To Work**: no link to this work yet
+
