@@ -638,3 +638,10 @@
 
 **Link To Work**: no link to this work yet
 
+### August 8th - Day 80 of 100
+
+**Today's Progress**: Took up a front end mentor challenge to create a QR code components
+
+**Thought's**:Its time to build
+
+**Link To Work**:https://github.com/jaysonalfie/QR-code-component-Frontend-mentor
