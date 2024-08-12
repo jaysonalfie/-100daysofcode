@@ -645,3 +645,10 @@
 **Thought's**:Its time to build
 
 **Link To Work**:https://github.com/jaysonalfie/QR-code-component-Frontend-mentor
+
+### August 12th - Day 81 of 100
+**Today's Progress**: Took up my second Front end mentor challenge to create a blog preview card
+
+**Thought's** Imma keep buiding as I learn....that is the way to go foward
+
+**Link to Work**: https://github.com/jaysonalfie/Blog-Preview-Card.git
