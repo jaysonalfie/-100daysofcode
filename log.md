@@ -652,3 +652,11 @@
 **Thought's** Imma keep buiding as I learn....that is the way to go foward
 
 **Link to Work**: https://github.com/jaysonalfie/Blog-Preview-Card.git
+
+### August 13th - Day 82 of 100
+**Today's Progress**: Did research and implemented a hello prompt to a DialogFlow CX Agent
+
+**Thought's** Still building and I know that someday it will all make sense
+
+**Link to Work**: No link to this work yet
+
