@@ -660,3 +660,10 @@
 
 **Link to Work**: No link to this work yet
 
+### August 14th - Day 83 of 100
+**Today's Progress**: Learnt how to define global variables in css
+
+**Thought's** Still building and I know that someday it will all make sense..slow and steady
+
+**Link to Work**: No link to this work yet
+
