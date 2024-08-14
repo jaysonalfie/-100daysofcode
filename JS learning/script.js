@@ -438,7 +438,7 @@ const letterFrequency = (phrase)=> {
 const wordFrequency = (phrase)=>{
   // let frequency = {}
     //logic
-    //turn the string into an array
+    //split function turns the string into an array
   //  words = phrase.split(' ')
   //  console.log(words)
   //  //loop
@@ -460,6 +460,46 @@ const wordFrequency = (phrase)=>{
   return letterFrequency(words)
 }
 
-console.log(wordFrequency('hello hello wassup yo yo yo'))
+// console.log(wordFrequency('hello hello wassup yo yo yo'))
+
+//merging objects
+const object1 = {
+  name:"Alice",
+  age:25
+};
+
+const object2 = {
+  profession:"Engineer",
+  country:"USA"
+}
+
+const mergedObject = {...object1, ...object2}
+// console.log(mergedObject);
+
+//storing in localStorage- stores data with no expiration time
+localStorage.setItem('theme', 'dark');
+//retrieving data form local storage
+let theme = localStorage.getItem('theme')
+// console.log(theme);
+
+//removing itme from local storage
+localStorage.removeItem('theme')
+// console.log(theme);
+
+//Clearing all local storage
+localStorage.clear()
+
+//storing data is session storage-dutation of one page session
+sessionStorage.setItem('user', 'Jane Doe')
+
+let user = sessionStorage.getItem('user')
+console.log(user);
+
+//removing item from sessionStorage
+sessionStorage.removeItem('user')
+
+//clearing all session storage
+sessionStorage.clear();
+
 
 // 2:56:36
