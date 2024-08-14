@@ -621,3 +621,42 @@
 **Thought's**:Still at cross roads on how this will work ....more research maybe....well only one way to find out
 
 **Link To Work**: no link to this work yet
+
+### August 2nd - Day 78 of 100
+
+**Today's Progress**: Still tried to make the cloud function to connect to the MySQL instance.
+
+**Thought's**:I think either there is something that I am missing on the logic....I hope I will crack this...I am so close....just have to figure out where
+
+**Link To Work**: no link to this work yet
+
+### August 5th - Day 79 of 100
+
+**Today's Progress**: Made the function to be able to communicate to the SQL instance from my local machine.
+
+**Thought's**:one step closer to figuring it out but so far so good.....lets continue....
+
+**Link To Work**: no link to this work yet
+
+### August 8th - Day 80 of 100
+
+**Today's Progress**: Took up a front end mentor challenge to create a QR code components
+
+**Thought's**:Its time to build
+
+**Link To Work**:https://github.com/jaysonalfie/QR-code-component-Frontend-mentor
+
+### August 12th - Day 81 of 100
+**Today's Progress**: Took up my second Front end mentor challenge to create a blog preview card
+
+**Thought's** Imma keep buiding as I learn....that is the way to go foward
+
+**Link to Work**: https://github.com/jaysonalfie/Blog-Preview-Card.git
+
+### August 13th - Day 82 of 100
+**Today's Progress**: Did research and implemented a hello prompt to a DialogFlow CX Agent
+
+**Thought's** Still building and I know that someday it will all make sense
+
+**Link to Work**: No link to this work yet
+
