@@ -665,12 +665,12 @@
 
 **Thought's** Still building and I know that someday it will all make sense..slow and steady
 
-**Link to Work**: No link to this work yet
+**Link to Work**:(https://github.com/jaysonalfie/Blog-Preview-Card.git)
 
 ### August 15th - Day 84 of 100
 **Today's Progress**: Learnt about max and min width in css and also looked a bit more into media queries as I stylesd my card
 
 **Thought's** Still building and I know that someday it will all make sense..slow and steady and steady
 
-**Link to Work**: No link to this work yet
+**Link to Work**:(https://github.com/jaysonalfie/Blog-Preview-Card.git)
 
