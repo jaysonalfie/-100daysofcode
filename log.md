@@ -674,3 +674,10 @@
 
 **Link to Work**:https://github.com/jaysonalfie/Blog-Preview-Card.git
 
+### August 16th - Day 85 of 100
+**Today's Progress**: Still Learnt about max and min width in css and also looked a bit more into media queries as I stylesd my card  and hosted my project
+
+**Thought's** Still building and I know that someday it will all make sense..slow and steady and steady which will win the race but just amazed at the work guys are doing.
+
+**Link to Work**:https://github.com/jaysonalfie/Blog-Preview-Card.git
+
