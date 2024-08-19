@@ -681,3 +681,9 @@
 
 **Link to Work**:https://github.com/jaysonalfie/Blog-Preview-Card.git
 
+### August 19th - Day 86 of 100
+**Today's Progress**: Started my third challenge of creating  a social links profile
+
+**Thought's** I have been looking into how the min-width will be able to work and that will require a mobile first approach as opposed to the desktop first approach that I have been using
+
+**Link to Work**:No link for this work yet
