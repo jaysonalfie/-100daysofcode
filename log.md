@@ -660,3 +660,30 @@
 
 **Link to Work**: No link to this work yet
 
+### August 14th - Day 83 of 100
+**Today's Progress**: Learnt how to define global variables in css
+
+**Thought's** Still building and I know that someday it will all make sense..slow and steady
+
+**Link to Work**:https://github.com/jaysonalfie/Blog-Preview-Card.git
+
+### August 15th - Day 84 of 100
+**Today's Progress**: Learnt about max and min width in css and also looked a bit more into media queries as I stylesd my card
+
+**Thought's** Still building and I know that someday it will all make sense..slow and steady and steady
+
+**Link to Work**:https://github.com/jaysonalfie/Blog-Preview-Card.git
+
+### August 16th - Day 85 of 100
+**Today's Progress**: Still Learnt about max and min width in css and also looked a bit more into media queries as I stylesd my card  and hosted my project
+
+**Thought's** Still building and I know that someday it will all make sense..slow and steady and steady which will win the race but just amazed at the work guys are doing.
+
+**Link to Work**:https://github.com/jaysonalfie/Blog-Preview-Card.git
+
+### August 19th - Day 86 of 100
+**Today's Progress**: Started my third challenge of creating  a social links profile
+
+**Thought's** I have been looking into how the min-width will be able to work and that will require a mobile first approach as opposed to the desktop first approach that I have been using...now that is my great task
+
+**Link to Work**: No link to this work yet
