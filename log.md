@@ -687,3 +687,10 @@
 **Thought's** I have been looking into how the min-width will be able to work and that will require a mobile first approach as opposed to the desktop first approach that I have been using...now that is my great task
 
 **Link to Work**: No link to this work yet
+
+### August 20th - Day 87 of 100
+**Today's Progress**: Still worked on the third challenge on the social links profile.
+
+**Thought's**  I was able to get a deeper understandng of mobile first and I continue to do more reseaarch on the same.
+
+**Link to Work**:https://social-links-profile-bay-omega.vercel.app/
