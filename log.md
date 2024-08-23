@@ -694,3 +694,17 @@
 **Thought's**  I was able to get a deeper understandng of mobile first and I continue to do more reseaarch on the same.
 
 **Link to Work**:https://social-links-profile-bay-omega.vercel.app/
+
+### August 22th - Day 88 of 100
+**Today's Progress**: Began my fourth challenge of creating a recipe page
+
+**Thought's**  I have decide to use react for this one just to remind myself of a few things
+
+**Link to Work**:No link to this work yet
+
+### August 23th - Day 89 of 100
+**Today's Progress**: Continued to work on the recipe page
+
+**Thought's**  Indeed practice is important to ensure that things do work out
+
+**Link to Work**:No link to this work yet
