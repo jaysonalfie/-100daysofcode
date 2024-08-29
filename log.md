@@ -708,3 +708,17 @@
 **Thought's**  Indeed practice is important to ensure that things do work out
 
 **Link to Work**:No link to this work yet
+
+### August 28th - Day 89 of 100
+**Today's Progress**: Began collaboration on a blockchain project.
+
+**Thought's** This is a new frontier and perhaps I am going to fast but let us see..less worrying more coding
+
+**Link to Work**:No link to this work yet
+
+### August 29th - Day 90 of 100
+**Today's Progress**: Still on the blockchain project .
+
+**Thought's**  Indeed thera are some similarities between vue and react.....let me see how it works out
+
+**Link to Work**:No link to this work yet
