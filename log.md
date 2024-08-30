@@ -722,3 +722,10 @@
 **Thought's**  Indeed thera are some similarities between vue and react.....let me see how it works out
 
 **Link to Work**:https://github.com/jaysonalfie/rescuelink.git
+
+### August 30th - Day 91 of 100
+**Today's Progress**:Still worked on the rescuelink project just to find out how it works.
+
+**Thought's** I am startin to get more as I proceed and it is really fun to learn new things. Lets see where it gets us
+
+**Link to Work**:https://github.com/jaysonalfie/rescuelink.git
