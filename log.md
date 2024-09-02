@@ -733,7 +733,7 @@
 ### September 2nd - Day 92 of 100
 **Today's Progress**:With understanding the Logic I was able to now implement to the rescuelink dApp.
 
-**Thought's** New month anf we forge ahead. To more learning and to more coding
+**Thought's** New month and we forge ahead. To more learning and to more coding...Lets do this
 
 **Link to Work**:https://github.com/jaysonalfie/rescuelink.git
 
