@@ -729,3 +729,11 @@
 **Thought's** I am starting to get more as I proceed and it is really fun to learn new things. Let's see where it gets us
 
 **Link to Work**:https://github.com/jaysonalfie/rescuelink.git
+
+### September 2nd - Day 92 of 100
+**Today's Progress**:With understanding the Logic I was able to now implement to the rescuelink dApp.
+
+**Thought's** New month anf we forge ahead. To more learning and to more coding
+
+**Link to Work**:https://github.com/jaysonalfie/rescuelink.git
+
