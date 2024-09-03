@@ -737,3 +737,10 @@
 
 **Link to Work**:https://github.com/jaysonalfie/rescuelink.git
 
+### September 3rd - Day 93 of 100
+**Today's Progress**:I returned back to my 4th frontend mentor task and managed to do it.
+
+**Thought's** I get to understand more and more of the mobile first approach and I will continue to research more on it.
+
+**Link to Work**:https://recipe-page-five-chi.vercel.app/
+
