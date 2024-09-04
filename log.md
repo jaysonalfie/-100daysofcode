@@ -744,3 +744,10 @@
 
 **Link to Work**:https://recipe-page-five-chi.vercel.app/
 
+### September 4th - Day 94 of 100
+**Today's Progress**:I managed to complete my fourth challenge and started embarking on responsive design.
+
+**Thought's** I get to understand more and more of the mobile first approach a and I believe the mobile responsive design approach will be of help.
+
+**Link to Work**:https://recipe-page-five-chi.vercel.app/
+
