@@ -751,3 +751,10 @@
 
 **Link to Work**:https://recipe-page-five-chi.vercel.app/
 
+### September 5th - Day 95 of 100
+**Today's Progress**:I reviewed some comments made on my previous challenge and was able to read more about the changes and apply them.
+
+**Thought's** I learnt about using semantics and how they help and why it is important to ensure the html is well structured.
+
+**Link to Work**:https://recipe-page-five-chi.vercel.app/
+
