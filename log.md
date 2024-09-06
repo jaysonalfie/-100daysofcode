@@ -758,3 +758,11 @@
 
 **Link to Work**:https://recipe-page-five-chi.vercel.app/
 
+
+### September 6th - Day 96 of 100
+**Today's Progress**:I began looking into my fifth challenge
+
+**Thought's** I am still looking into it in terms of research
+
+**Link to Work**:https://github.com/jaysonalfie/Product-Preview-Card-Component.git
+
