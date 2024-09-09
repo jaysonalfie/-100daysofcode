@@ -766,3 +766,10 @@
 
 **Link to Work**:https://github.com/jaysonalfie/Product-Preview-Card-Component.git
 
+### September 9th - Day 97 of 100
+**Today's Progress**:I was able to complete my fifth challenge by completing the styling.
+
+**Thought's** I am still looking into the mobile first approach to see how it works in responsivity
+
+**Link to Work**:https://product-preview-card-component-three-ruddy.vercel.app/
+
