@@ -773,3 +773,11 @@
 
 **Link to Work**:https://product-preview-card-component-three-ruddy.vercel.app/
 
+
+### September 12th - Day 98 of 100
+**Today's Progress**:I was digging deep into flexbox and how it works
+
+**Thought's** I see it fit to learn from the basics in terms of responsivity from which I can now advance and continue with the challenges I have been doing.
+
+**Link to Work**:https://github.com/jaysonalfie/Learning-Responsive-Design.git
+
