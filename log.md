@@ -781,3 +781,12 @@
 
 **Link to Work**:https://github.com/jaysonalfie/Learning-Responsive-Design.git
 
+
+### September 13th - Day 99 of 100
+**Today's Progress**:I did a small page to apply what I have learnt so far in regards to flexbox.
+
+**Thought's** Slow and steady and I will win the race
+
+**Link to Work**:https://github.com/jaysonalfie/Learning-Responsive-Design.git
+
+
