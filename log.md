@@ -789,4 +789,12 @@
 
 **Link to Work**:https://github.com/jaysonalfie/Learning-Responsive-Design.git
 
+### September 16th - Day 100 of 100
+**Today's Progress**:I was able to add a navbar with a logo to the page as I explored what flexbox could do.
+
+**Thought's** Slow and steady and I will win the race...and heavy on this as I continue to learn
+
+**Link to Work**:https://github.com/jaysonalfie/Learning-Responsive-Design.git
+
+
 
